@@ -1,6 +1,6 @@
 <img src="icon.svg" width="80">
 
-# QuoteGuess
+# Quotable
 
 ![version](https://img.shields.io/badge/version-1.0.0-blue)
 
@@ -19,7 +19,8 @@ Open `http://localhost:8000`.
 ## Structure
 
 - `index.html` / `style.css` / `game.js` — game
-- `quotes.json` — quote bank (hand-seeded, see roadmap for real quote API)
+- `quotes.json` — quote bank
+- `ios/` — basic SwiftUI wrapper (WKWebView)
 
 ## License
 

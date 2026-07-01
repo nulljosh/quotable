@@ -1,4 +1,4 @@
-# QuoteGuess
+# Quotable
 
 Movie-quote guessing game. Static site, no build step, no backend.
 

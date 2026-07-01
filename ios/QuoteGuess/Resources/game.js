@@ -7,6 +7,7 @@ let speedMode = false;
 let timer = null;
 let timeLeft = 10;
 const TIME_LIMIT = 10;
+const HIGH_KEY = 'quotable_high_score';
 
 const $ = (id) => document.getElementById(id);
 const modeSelect = $('mode-select');
@@ -105,7 +106,9 @@ function updateStats() {
 function endGame() {
   gameEl.classList.add('hidden');
   endEl.classList.remove('hidden');
-  $('final-score').textContent = `Final score: ${score}`;
+  const high = Math.max(score, parseInt(localStorage.getItem(HIGH_KEY) || '0', 10));
+  localStorage.setItem(HIGH_KEY, high);
+  $('final-score').textContent = `Final score: ${score} · High score: ${high}`;
 }
 
 $('start-normal').onclick = () => startGame(false);
