@@ -117,3 +117,11 @@ $('restart').onclick = () => {
   endEl.classList.add('hidden');
   modeSelect.classList.remove('hidden');
 };
+$('share').onclick = () => {
+  const text = `I scored ${score} on Quotable! Can you beat me? https://nulljosh.github.io/quotable`;
+  if (navigator.share) navigator.share({ text });
+  else navigator.clipboard.writeText(text).then(() => {
+    $('share').textContent = 'Copied!';
+    setTimeout(() => { $('share').textContent = 'Share Score'; }, 1500);
+  });
+};
