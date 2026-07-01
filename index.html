@@ -19,8 +19,22 @@
       <div class="stats">
         <span id="score">Score: 0</span>
         <span id="streak">Streak: 0</span>
+        <button id="settings-btn" aria-label="Settings">⚙️</button>
       </div>
     </header>
+
+    <div id="settings" class="panel hidden">
+      <h2>Settings</h2>
+      <label class="setting-row">
+        <span>Sound effects</span>
+        <input type="checkbox" id="sfx-toggle">
+      </label>
+      <label class="setting-row">
+        <span>Volume</span>
+        <input type="range" id="sfx-volume" min="0" max="100" value="60">
+      </label>
+      <button id="settings-close">Close</button>
+    </div>
 
     <div id="mode-select" class="panel">
       <p>Guess the movie from the quote.</p>
