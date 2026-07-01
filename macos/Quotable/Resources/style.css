@@ -3,7 +3,7 @@
   --panel: #1e1e1e;
   --panel2: #252525;
   --accent: #5B9BD5;
-  --accent2: #9b5de5;
+  --accent2: #3d7bb8;
   --good: #34c759;
   --bad: #ff453a;
   --text: #e8e8f0;
@@ -15,7 +15,7 @@
   --panel: #ffffff;
   --panel2: #eeeef0;
   --accent: #3d7bb8;
-  --accent2: #8a4fd1;
+  --accent2: #2c5f8f;
   --good: #248a3d;
   --bad: #d70015;
   --text: #111111;
@@ -63,7 +63,6 @@ h1 a { color: inherit; text-decoration: none; display: flex; align-items: center
   border-radius: 16px;
   padding: 32px 28px;
   text-align: center;
-  border-left: 6px solid var(--accent2);
 }
 .hidden { display: none; }
 .genre-badge {
