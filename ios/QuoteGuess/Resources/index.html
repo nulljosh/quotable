@@ -7,8 +7,9 @@
 <link rel="icon" href="icon.svg" type="image/svg+xml">
 <link rel="stylesheet" href="style.css">
 <script>
-  document.documentElement.dataset.theme = localStorage.getItem('theme')
-    || (matchMedia('(prefers-color-scheme: light)').matches ? 'light' : 'dark');
+  const mq = matchMedia('(prefers-color-scheme: light)');
+  document.documentElement.dataset.theme = mq.matches ? 'light' : 'dark';
+  mq.addEventListener('change', e => document.documentElement.dataset.theme = e.matches ? 'light' : 'dark');
 </script>
 </head>
 <body>
@@ -18,7 +19,6 @@
       <div class="stats">
         <span id="score">Score: 0</span>
         <span id="streak">Streak: 0</span>
-        <button class="theme-toggle" id="theme-toggle" aria-label="Toggle theme">🌓</button>
       </div>
     </header>
 
