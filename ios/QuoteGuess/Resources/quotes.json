@@ -551,383 +551,1168 @@
     ],
     "genre": "classic"
   },
-{
+  {
     "quote": "You can't handle the truth!",
     "movie": "A Few Good Men",
     "year": 1992,
-    "options": ["A Few Good Men", "The Verdict", "Primal Fear", "Philadelphia"],
+    "options": [
+      "A Few Good Men",
+      "The Verdict",
+      "Primal Fear",
+      "Philadelphia"
+    ],
     "genre": "drama"
   },
   {
     "quote": "I'll be back.",
     "movie": "The Terminator",
     "year": 1984,
-    "options": ["RoboCop", "The Terminator", "Predator", "Total Recall"],
+    "options": [
+      "RoboCop",
+      "The Terminator",
+      "Predator",
+      "Total Recall"
+    ],
     "genre": "scifi"
   },
   {
     "quote": "Why so serious?",
     "movie": "The Dark Knight",
     "year": 2008,
-    "options": ["The Dark Knight", "Joker", "Batman Begins", "V for Vendetta"],
+    "options": [
+      "The Dark Knight",
+      "Joker",
+      "Batman Begins",
+      "V for Vendetta"
+    ],
     "genre": "action"
   },
   {
     "quote": "Here's looking at you, kid.",
     "movie": "Casablanca",
     "year": 1942,
-    "options": ["Casablanca", "The Maltese Falcon", "Notorious", "Gilda"],
+    "options": [
+      "Casablanca",
+      "The Maltese Falcon",
+      "Notorious",
+      "Gilda"
+    ],
     "genre": "classic"
   },
   {
     "quote": "There's no place like home.",
     "movie": "The Wizard of Oz",
     "year": 1939,
-    "options": ["The Wizard of Oz", "Alice in Wonderland", "Peter Pan", "Mary Poppins"],
+    "options": [
+      "The Wizard of Oz",
+      "Alice in Wonderland",
+      "Peter Pan",
+      "Mary Poppins"
+    ],
     "genre": "classic"
   },
   {
     "quote": "Say hello to my little friend!",
     "movie": "Scarface",
     "year": 1983,
-    "options": ["Scarface", "Goodfellas", "Casino", "Carlito's Way"],
+    "options": [
+      "Scarface",
+      "Goodfellas",
+      "Casino",
+      "Carlito's Way"
+    ],
     "genre": "drama"
   },
   {
     "quote": "You had me at hello.",
     "movie": "Jerry Maguire",
     "year": 1996,
-    "options": ["Jerry Maguire", "Notting Hill", "Sleepless in Seattle", "You've Got Mail"],
+    "options": [
+      "Jerry Maguire",
+      "Notting Hill",
+      "Sleepless in Seattle",
+      "You've Got Mail"
+    ],
     "genre": "drama"
   },
   {
-    "quote": "I feel the need — the need for speed.",
+    "quote": "I feel the need \u2014 the need for speed.",
     "movie": "Top Gun",
     "year": 1986,
-    "options": ["Top Gun", "Days of Thunder", "The Fast and the Furious", "Speed"],
+    "options": [
+      "Top Gun",
+      "Days of Thunder",
+      "The Fast and the Furious",
+      "Speed"
+    ],
     "genre": "action"
   },
   {
     "quote": "My precious.",
     "movie": "The Lord of the Rings: The Two Towers",
     "year": 2002,
-    "options": ["The Lord of the Rings: The Two Towers", "The Hobbit", "Willow", "Dragonheart"],
+    "options": [
+      "The Lord of the Rings: The Two Towers",
+      "The Hobbit",
+      "Willow",
+      "Dragonheart"
+    ],
     "genre": "scifi"
   },
   {
     "quote": "Just keep swimming.",
     "movie": "Finding Nemo",
     "year": 2003,
-    "options": ["Finding Nemo", "Shark Tale", "Finding Dory", "The Little Mermaid"],
+    "options": [
+      "Finding Nemo",
+      "Shark Tale",
+      "Finding Dory",
+      "The Little Mermaid"
+    ],
     "genre": "comedy"
   },
   {
     "quote": "Nobody puts Baby in a corner.",
     "movie": "Dirty Dancing",
     "year": 1987,
-    "options": ["Dirty Dancing", "Footloose", "Flashdance", "Grease"],
+    "options": [
+      "Dirty Dancing",
+      "Footloose",
+      "Flashdance",
+      "Grease"
+    ],
     "genre": "drama"
   },
   {
     "quote": "It's alive! It's alive!",
     "movie": "Frankenstein",
     "year": 1931,
-    "options": ["Frankenstein", "Dracula", "The Mummy", "The Wolf Man"],
+    "options": [
+      "Frankenstein",
+      "Dracula",
+      "The Mummy",
+      "The Wolf Man"
+    ],
     "genre": "classic"
   },
   {
     "quote": "Hasta la vista, baby.",
     "movie": "Terminator 2: Judgment Day",
     "year": 1991,
-    "options": ["Terminator 2: Judgment Day", "The Terminator", "RoboCop 2", "Predator 2"],
+    "options": [
+      "Terminator 2: Judgment Day",
+      "The Terminator",
+      "RoboCop 2",
+      "Predator 2"
+    ],
     "genre": "scifi"
   },
   {
     "quote": "Wax on, wax off.",
     "movie": "The Karate Kid",
     "year": 1984,
-    "options": ["The Karate Kid", "Rocky", "Best of the Best", "Bloodsport"],
+    "options": [
+      "The Karate Kid",
+      "Rocky",
+      "Best of the Best",
+      "Bloodsport"
+    ],
     "genre": "drama"
   },
   {
     "quote": "No, I am your father.",
     "movie": "The Empire Strikes Back",
     "year": 1980,
-    "options": ["The Empire Strikes Back", "Return of the Jedi", "A New Hope", "The Phantom Menace"],
+    "options": [
+      "The Empire Strikes Back",
+      "Return of the Jedi",
+      "A New Hope",
+      "The Phantom Menace"
+    ],
     "genre": "scifi"
   },
   {
     "quote": "Frankly, my dear, I don't give a damn.",
     "movie": "Gone with the Wind",
     "year": 1939,
-    "options": ["Gone with the Wind", "Rebecca", "Jezebel", "The Letter"],
+    "options": [
+      "Gone with the Wind",
+      "Rebecca",
+      "Jezebel",
+      "The Letter"
+    ],
     "genre": "classic"
   },
   {
     "quote": "I'll have what she's having.",
     "movie": "When Harry Met Sally...",
     "year": 1989,
-    "options": ["When Harry Met Sally...", "Sleepless in Seattle", "Annie Hall", "Manhattan"],
+    "options": [
+      "When Harry Met Sally...",
+      "Sleepless in Seattle",
+      "Annie Hall",
+      "Manhattan"
+    ],
     "genre": "comedy"
   },
   {
     "quote": "Life is like a box of chocolates. You never know what you're gonna get.",
     "movie": "Forrest Gump",
     "year": 1994,
-    "options": ["Forrest Gump", "Big Fish", "The Green Mile", "Cast Away"],
+    "options": [
+      "Forrest Gump",
+      "Big Fish",
+      "The Green Mile",
+      "Cast Away"
+    ],
     "genre": "drama"
   },
   {
     "quote": "You talking to me?",
     "movie": "Taxi Driver",
     "year": 1976,
-    "options": ["Taxi Driver", "Raging Bull", "Mean Streets", "Serpico"],
+    "options": [
+      "Taxi Driver",
+      "Raging Bull",
+      "Mean Streets",
+      "Serpico"
+    ],
     "genre": "drama"
   },
   {
     "quote": "Houston, we have a problem.",
     "movie": "Apollo 13",
     "year": 1995,
-    "options": ["Apollo 13", "The Right Stuff", "Gravity", "The Martian"],
+    "options": [
+      "Apollo 13",
+      "The Right Stuff",
+      "Gravity",
+      "The Martian"
+    ],
     "genre": "drama"
   },
   {
     "quote": "I see dead people.",
     "movie": "The Sixth Sense",
     "year": 1999,
-    "options": ["The Sixth Sense", "The Others", "Poltergeist", "The Ring"],
+    "options": [
+      "The Sixth Sense",
+      "The Others",
+      "Poltergeist",
+      "The Ring"
+    ],
     "genre": "drama"
   },
   {
     "quote": "To infinity and beyond!",
     "movie": "Toy Story",
     "year": 1995,
-    "options": ["Toy Story", "A Bug's Life", "Antz", "The Incredibles"],
+    "options": [
+      "Toy Story",
+      "A Bug's Life",
+      "Antz",
+      "The Incredibles"
+    ],
     "genre": "comedy"
   },
   {
     "quote": "Yippee-ki-yay, motherf***er.",
     "movie": "Die Hard",
     "year": 1988,
-    "options": ["Die Hard", "Lethal Weapon", "Speed", "Con Air"],
+    "options": [
+      "Die Hard",
+      "Lethal Weapon",
+      "Speed",
+      "Con Air"
+    ],
     "genre": "action"
   },
   {
     "quote": "Carpe diem. Seize the day, boys.",
     "movie": "Dead Poets Society",
     "year": 1989,
-    "options": ["Dead Poets Society", "Good Will Hunting", "The Emperor's Club", "Freedom Writers"],
+    "options": [
+      "Dead Poets Society",
+      "Good Will Hunting",
+      "The Emperor's Club",
+      "Freedom Writers"
+    ],
     "genre": "drama"
   },
   {
     "quote": "Great Scott!",
     "movie": "Back to the Future",
     "year": 1985,
-    "options": ["Back to the Future", "The Time Machine", "Bill & Ted's Excellent Adventure", "Groundhog Day"],
+    "options": [
+      "Back to the Future",
+      "The Time Machine",
+      "Bill & Ted's Excellent Adventure",
+      "Groundhog Day"
+    ],
     "genre": "scifi"
   },
   {
     "quote": "It ain't over till it's over.",
     "movie": "A League of Their Own",
     "year": 1992,
-    "options": ["A League of Their Own", "Rocky", "The Sandlot", "Field of Dreams"],
+    "options": [
+      "A League of Their Own",
+      "Rocky",
+      "The Sandlot",
+      "Field of Dreams"
+    ],
     "genre": "comedy"
   },
   {
     "quote": "This is Sparta!",
     "movie": "300",
     "year": 2006,
-    "options": ["300", "Troy", "Gladiator", "Alexander"],
+    "options": [
+      "300",
+      "Troy",
+      "Gladiator",
+      "Alexander"
+    ],
     "genre": "action"
   },
   {
     "quote": "The horror. The horror.",
     "movie": "Apocalypse Now",
     "year": 1979,
-    "options": ["Apocalypse Now", "Platoon", "Full Metal Jacket", "The Deer Hunter"],
+    "options": [
+      "Apocalypse Now",
+      "Platoon",
+      "Full Metal Jacket",
+      "The Deer Hunter"
+    ],
     "genre": "drama"
   },
   {
     "quote": "Snap out of it!",
     "movie": "Moonstruck",
     "year": 1987,
-    "options": ["Moonstruck", "Moonlight", "Working Girl", "Broadcast News"],
+    "options": [
+      "Moonstruck",
+      "Moonlight",
+      "Working Girl",
+      "Broadcast News"
+    ],
     "genre": "comedy"
   },
   {
     "quote": "It's not a tumor!",
     "movie": "Kindergarten Cop",
     "year": 1990,
-    "options": ["Kindergarten Cop", "Twins", "Junior", "Jingle All the Way"],
+    "options": [
+      "Kindergarten Cop",
+      "Twins",
+      "Junior",
+      "Jingle All the Way"
+    ],
     "genre": "comedy"
   },
   {
     "quote": "Toga! Toga!",
     "movie": "National Lampoon's Animal House",
     "year": 1978,
-    "options": ["National Lampoon's Animal House", "Old School", "Van Wilder", "Revenge of the Nerds"],
+    "options": [
+      "National Lampoon's Animal House",
+      "Old School",
+      "Van Wilder",
+      "Revenge of the Nerds"
+    ],
     "genre": "comedy"
   },
   {
     "quote": "Adrian!",
     "movie": "Rocky",
     "year": 1976,
-    "options": ["Rocky", "Raging Bull", "The Champ", "Cinderella Man"],
+    "options": [
+      "Rocky",
+      "Raging Bull",
+      "The Champ",
+      "Cinderella Man"
+    ],
     "genre": "drama"
   },
   {
     "quote": "May the odds be ever in your favor.",
     "movie": "The Hunger Games",
     "year": 2012,
-    "options": ["The Hunger Games", "Divergent", "The Maze Runner", "Battle Royale"],
+    "options": [
+      "The Hunger Games",
+      "Divergent",
+      "The Maze Runner",
+      "Battle Royale"
+    ],
     "genre": "action"
   },
   {
     "quote": "Why do we fall? So we can learn to pick ourselves up.",
     "movie": "Batman Begins",
     "year": 2005,
-    "options": ["Batman Begins", "The Dark Knight", "Man of Steel", "Kick-Ass"],
+    "options": [
+      "Batman Begins",
+      "The Dark Knight",
+      "Man of Steel",
+      "Kick-Ass"
+    ],
     "genre": "action"
   },
   {
     "quote": "There is no spoon.",
     "movie": "The Matrix",
     "year": 1999,
-    "options": ["The Matrix", "Inception", "Dark City", "eXistenZ"],
+    "options": [
+      "The Matrix",
+      "Inception",
+      "Dark City",
+      "eXistenZ"
+    ],
     "genre": "scifi"
   },
   {
     "quote": "I am inevitable.",
     "movie": "Avengers: Endgame",
     "year": 2019,
-    "options": ["Avengers: Endgame", "Avengers: Infinity War", "Doctor Strange", "Guardians of the Galaxy"],
+    "options": [
+      "Avengers: Endgame",
+      "Avengers: Infinity War",
+      "Doctor Strange",
+      "Guardians of the Galaxy"
+    ],
     "genre": "action"
   },
   {
     "quote": "With great power comes great responsibility.",
     "movie": "Spider-Man",
     "year": 2002,
-    "options": ["Spider-Man", "X-Men", "Fantastic Four", "Daredevil"],
+    "options": [
+      "Spider-Man",
+      "X-Men",
+      "Fantastic Four",
+      "Daredevil"
+    ],
     "genre": "action"
   },
   {
     "quote": "Roads? Where we're going, we don't need roads.",
     "movie": "Back to the Future",
     "year": 1985,
-    "options": ["Back to the Future", "E.T. the Extra-Terrestrial", "Explorers", "Flight of the Navigator"],
+    "options": [
+      "Back to the Future",
+      "E.T. the Extra-Terrestrial",
+      "Explorers",
+      "Flight of the Navigator"
+    ],
     "genre": "scifi"
   },
   {
     "quote": "Get away from her, you b***h!",
     "movie": "Aliens",
     "year": 1986,
-    "options": ["Aliens", "Alien", "Predator", "The Thing"],
+    "options": [
+      "Aliens",
+      "Alien",
+      "Predator",
+      "The Thing"
+    ],
     "genre": "scifi"
   },
   {
     "quote": "Bond. James Bond.",
     "movie": "Dr. No",
     "year": 1962,
-    "options": ["Dr. No", "Goldfinger", "From Russia with Love", "Thunderball"],
+    "options": [
+      "Dr. No",
+      "Goldfinger",
+      "From Russia with Love",
+      "Thunderball"
+    ],
     "genre": "action"
   },
   {
     "quote": "I'm the king of the world!",
     "movie": "Titanic",
     "year": 1997,
-    "options": ["Titanic", "The Perfect Storm", "Master and Commander", "Pearl Harbor"],
+    "options": [
+      "Titanic",
+      "The Perfect Storm",
+      "Master and Commander",
+      "Pearl Harbor"
+    ],
     "genre": "drama"
   },
   {
     "quote": "Elementary, my dear Watson.",
     "movie": "Sherlock Holmes",
     "year": 2009,
-    "options": ["Sherlock Holmes", "The Hound of the Baskervilles", "Murder on the Orient Express", "Knives Out"],
+    "options": [
+      "Sherlock Holmes",
+      "The Hound of the Baskervilles",
+      "Murder on the Orient Express",
+      "Knives Out"
+    ],
     "genre": "drama"
   },
   {
     "quote": "Keep your friends close, but your enemies closer.",
     "movie": "The Godfather Part II",
     "year": 1974,
-    "options": ["The Godfather Part II", "The Godfather", "Goodfellas", "Casino"],
+    "options": [
+      "The Godfather Part II",
+      "The Godfather",
+      "Goodfellas",
+      "Casino"
+    ],
     "genre": "drama"
   },
   {
     "quote": "I'm walking here! I'm walking here!",
     "movie": "Midnight Cowboy",
     "year": 1969,
-    "options": ["Midnight Cowboy", "Taxi Driver", "The French Connection", "Serpico"],
+    "options": [
+      "Midnight Cowboy",
+      "Taxi Driver",
+      "The French Connection",
+      "Serpico"
+    ],
     "genre": "drama"
   },
   {
     "quote": "Show me the money!",
     "movie": "Jerry Maguire",
     "year": 1996,
-    "options": ["Jerry Maguire", "Wall Street", "The Wolf of Wall Street", "Moneyball"],
+    "options": [
+      "Jerry Maguire",
+      "Wall Street",
+      "The Wolf of Wall Street",
+      "Moneyball"
+    ],
     "genre": "comedy"
   },
   {
     "quote": "You shall not pass!",
     "movie": "The Lord of the Rings: The Fellowship of the Ring",
     "year": 2001,
-    "options": ["The Lord of the Rings: The Fellowship of the Ring", "The Hobbit", "Willow", "Excalibur"],
+    "options": [
+      "The Lord of the Rings: The Fellowship of the Ring",
+      "The Hobbit",
+      "Willow",
+      "Excalibur"
+    ],
     "genre": "scifi"
   },
   {
     "quote": "Houston, we are go for launch.",
     "movie": "Apollo 13",
     "year": 1995,
-    "options": ["Apollo 13", "The Martian", "First Man", "Gravity"],
+    "options": [
+      "Apollo 13",
+      "The Martian",
+      "First Man",
+      "Gravity"
+    ],
     "genre": "drama"
   },
   {
     "quote": "I love the smell of napalm in the morning.",
     "movie": "Apocalypse Now",
     "year": 1979,
-    "options": ["Apocalypse Now", "Platoon", "Full Metal Jacket", "We Were Soldiers"],
+    "options": [
+      "Apocalypse Now",
+      "Platoon",
+      "Full Metal Jacket",
+      "We Were Soldiers"
+    ],
     "genre": "drama"
   },
   {
     "quote": "If you build it, he will come.",
     "movie": "Field of Dreams",
     "year": 1989,
-    "options": ["Field of Dreams", "The Sandlot", "A League of Their Own", "Bull Durham"],
+    "options": [
+      "Field of Dreams",
+      "The Sandlot",
+      "A League of Their Own",
+      "Bull Durham"
+    ],
     "genre": "drama"
   },
   {
     "quote": "Life finds a way.",
     "movie": "Jurassic Park",
     "year": 1993,
-    "options": ["Jurassic Park", "The Lost World", "King Kong", "Godzilla"],
+    "options": [
+      "Jurassic Park",
+      "The Lost World",
+      "King Kong",
+      "Godzilla"
+    ],
     "genre": "scifi"
   },
   {
     "quote": "Hakuna Matata. It means no worries.",
     "movie": "The Lion King",
     "year": 1994,
-    "options": ["The Lion King", "Madagascar", "Tarzan", "Brother Bear"],
+    "options": [
+      "The Lion King",
+      "Madagascar",
+      "Tarzan",
+      "Brother Bear"
+    ],
     "genre": "comedy"
   },
   {
     "quote": "You can't sit with us!",
     "movie": "Mean Girls",
     "year": 2004,
-    "options": ["Mean Girls", "Clueless", "Legally Blonde", "10 Things I Hate About You"],
+    "options": [
+      "Mean Girls",
+      "Clueless",
+      "Legally Blonde",
+      "10 Things I Hate About You"
+    ],
     "genre": "comedy"
   },
   {
     "quote": "Say 'what' again. I dare you.",
     "movie": "Pulp Fiction",
     "year": 1994,
-    "options": ["Pulp Fiction", "Reservoir Dogs", "Jackie Brown", "Kill Bill"],
+    "options": [
+      "Pulp Fiction",
+      "Reservoir Dogs",
+      "Jackie Brown",
+      "Kill Bill"
+    ],
     "genre": "drama"
-  }
-  ,
+  },
   {
     "quote": "That'll do, pig. That'll do.",
     "movie": "Babe",
     "year": 1995,
-    "options": ["Babe", "Charlotte's Web", "Chicken Run", "Stuart Little"],
+    "options": [
+      "Babe",
+      "Charlotte's Web",
+      "Chicken Run",
+      "Stuart Little"
+    ],
+    "genre": "comedy"
+  },
+  {
+    "quote": "Play it, Sam. Play 'As Time Goes By.'",
+    "movie": "Casablanca",
+    "year": 1942,
+    "options": [
+      "Casablanca",
+      "Gone with the Wind",
+      "Rebecca",
+      "Notorious"
+    ],
+    "genre": "classic"
+  },
+  {
+    "quote": "Louis, I think this is the beginning of a beautiful friendship.",
+    "movie": "Casablanca",
+    "year": 1942,
+    "options": [
+      "Casablanca",
+      "The Maltese Falcon",
+      "To Have and Have Not",
+      "Key Largo"
+    ],
+    "genre": "classic"
+  },
+  {
+    "quote": "Go ahead, make my day.",
+    "movie": "Sudden Impact",
+    "year": 1983,
+    "options": [
+      "Sudden Impact",
+      "Dirty Harry",
+      "The Enforcer",
+      "Magnum Force"
+    ],
+    "genre": "action"
+  },
+  {
+    "quote": "E.T. phone home.",
+    "movie": "E.T. the Extra-Terrestrial",
+    "year": 1982,
+    "options": [
+      "E.T. the Extra-Terrestrial",
+      "Close Encounters of the Third Kind",
+      "Cocoon",
+      "Flight of the Navigator"
+    ],
+    "genre": "scifi"
+  },
+  {
+    "quote": "Get to the chopper!",
+    "movie": "Predator",
+    "year": 1987,
+    "options": [
+      "Predator",
+      "Commando",
+      "The Running Man",
+      "Total Recall"
+    ],
+    "genre": "action"
+  },
+  {
+    "quote": "I want to believe.",
+    "movie": "The X-Files",
+    "year": 1998,
+    "options": [
+      "The X-Files",
+      "Contact",
+      "Signs",
+      "Fire in the Sky"
+    ],
+    "genre": "scifi"
+  },
+  {
+    "quote": "Here's Johnny!",
+    "movie": "The Shining",
+    "year": 1980,
+    "options": [
+      "The Shining",
+      "Misery",
+      "The Amityville Horror",
+      "Poltergeist"
+    ],
+    "genre": "drama"
+  },
+  {
+    "quote": "I drink your milkshake!",
+    "movie": "There Will Be Blood",
+    "year": 2007,
+    "options": [
+      "There Will Be Blood",
+      "No Country for Old Men",
+      "Blood Diamond",
+      "Giant"
+    ],
+    "genre": "drama"
+  },
+  {
+    "quote": "It's not who I am underneath, but what I do that defines me.",
+    "movie": "Batman Begins",
+    "year": 2005,
+    "options": [
+      "Batman Begins",
+      "The Dark Knight",
+      "V for Vendetta",
+      "The Dark Knight Rises"
+    ],
+    "genre": "action"
+  },
+  {
+    "quote": "My mama always said life was like a box of chocolates.",
+    "movie": "Forrest Gump",
+    "year": 1994,
+    "options": [
+      "Forrest Gump",
+      "Big Fish",
+      "The Green Mile",
+      "The Curious Case of Benjamin Button"
+    ],
+    "genre": "drama"
+  },
+  {
+    "quote": "You can't fight in here! This is the War Room!",
+    "movie": "Dr. Strangelove",
+    "year": 1964,
+    "options": [
+      "Dr. Strangelove",
+      "Fail Safe",
+      "The Hunt for Red October",
+      "WarGames"
+    ],
+    "genre": "comedy"
+  },
+  {
+    "quote": "A martini. Shaken, not stirred.",
+    "movie": "Goldfinger",
+    "year": 1964,
+    "options": [
+      "Goldfinger",
+      "Dr. No",
+      "Thunderball",
+      "You Only Live Twice"
+    ],
+    "genre": "action"
+  },
+  {
+    "quote": "I feel need for speed.",
+    "movie": "Top Gun: Maverick",
+    "year": 2022,
+    "options": [
+      "Top Gun: Maverick",
+      "Top Gun",
+      "Days of Thunder",
+      "Iron Eagle"
+    ],
+    "genre": "action"
+  },
+  {
+    "quote": "Just when you thought it was safe to go back in the water.",
+    "movie": "Jaws 2",
+    "year": 1978,
+    "options": [
+      "Jaws 2",
+      "Jaws",
+      "Deep Blue Sea",
+      "The Meg"
+    ],
+    "genre": "action"
+  },
+  {
+    "quote": "Not all those who wander are lost.",
+    "movie": "The Lord of the Rings: The Fellowship of the Ring",
+    "year": 2001,
+    "options": [
+      "The Lord of the Rings: The Fellowship of the Ring",
+      "The Hobbit: An Unexpected Journey",
+      "Willow",
+      "Stardust"
+    ],
+    "genre": "scifi"
+  },
+  {
+    "quote": "Made it, Ma! Top of the world!",
+    "movie": "White Heat",
+    "year": 1949,
+    "options": [
+      "White Heat",
+      "The Public Enemy",
+      "Little Caesar",
+      "Angels with Dirty Faces"
+    ],
+    "genre": "classic"
+  },
+  {
+    "quote": "I'm as mad as hell, and I'm not going to take this anymore!",
+    "movie": "Network",
+    "year": 1976,
+    "options": [
+      "Network",
+      "All the President's Men",
+      "The China Syndrome",
+      "Wall Street"
+    ],
+    "genre": "drama"
+  },
+  {
+    "quote": "You're killing me, Smalls.",
+    "movie": "The Sandlot",
+    "year": 1993,
+    "options": [
+      "The Sandlot",
+      "The Bad News Bears",
+      "Rookie of the Year",
+      "Angels in the Outfield"
+    ],
+    "genre": "comedy"
+  },
+  {
+    "quote": "I'm gonna need a bigger boat.",
+    "movie": "Jaws",
+    "year": 1975,
+    "options": [
+      "Jaws",
+      "Jurassic Park",
+      "The Meg",
+      "Deep Rising"
+    ],
+    "genre": "action"
+  },
+  {
+    "quote": "Winter is coming.",
+    "movie": "Game of Thrones",
+    "year": 2011,
+    "options": [
+      "Game of Thrones",
+      "The Witcher",
+      "Vikings",
+      "The Last Kingdom"
+    ],
+    "genre": "drama"
+  },
+  {
+    "quote": "Why don't you make like a tree and get outta here.",
+    "movie": "Back to the Future",
+    "year": 1985,
+    "options": [
+      "Back to the Future",
+      "Teen Wolf",
+      "Weird Science",
+      "The Goonies"
+    ],
+    "genre": "comedy"
+  },
+  {
+    "quote": "You've got a friend in me.",
+    "movie": "Toy Story",
+    "year": 1995,
+    "options": [
+      "Toy Story",
+      "Toy Story 2",
+      "A Bug's Life",
+      "Monsters, Inc."
+    ],
+    "genre": "comedy"
+  },
+  {
+    "quote": "To boldly go where no man has gone before.",
+    "movie": "Star Trek",
+    "year": 1966,
+    "options": [
+      "Star Trek",
+      "Star Trek II: The Wrath of Khan",
+      "Star Wars",
+      "Lost in Space"
+    ],
+    "genre": "scifi"
+  },
+  {
+    "quote": "Live long and prosper.",
+    "movie": "Star Trek II: The Wrath of Khan",
+    "year": 1982,
+    "options": [
+      "Star Trek II: The Wrath of Khan",
+      "Star Trek",
+      "Star Trek: The Motion Picture",
+      "Star Trek III: The Search for Spock"
+    ],
+    "genre": "scifi"
+  },
+  {
+    "quote": "It's a trap!",
+    "movie": "Star Wars: Episode VI - Return of the Jedi",
+    "year": 1983,
+    "options": [
+      "Star Wars: Episode VI - Return of the Jedi",
+      "The Empire Strikes Back",
+      "A New Hope",
+      "Rogue One"
+    ],
+    "genre": "scifi"
+  },
+  {
+    "quote": "Do or do not, there is no try.",
+    "movie": "The Empire Strikes Back",
+    "year": 1980,
+    "options": [
+      "The Empire Strikes Back",
+      "A New Hope",
+      "Return of the Jedi",
+      "The Phantom Menace"
+    ],
+    "genre": "scifi"
+  },
+  {
+    "quote": "The Dude abides.",
+    "movie": "The Big Lebowski",
+    "year": 1998,
+    "options": [
+      "The Big Lebowski",
+      "Fargo",
+      "Burn After Reading",
+      "No Country for Old Men"
+    ],
+    "genre": "comedy"
+  },
+  {
+    "quote": "That's what she said.",
+    "movie": "The Office",
+    "year": 2005,
+    "options": [
+      "The Office",
+      "Parks and Recreation",
+      "Community",
+      "30 Rock"
+    ],
+    "genre": "comedy"
+  },
+  {
+    "quote": "Cool cool cool cool cool.",
+    "movie": "Community",
+    "year": 2009,
+    "options": [
+      "Community",
+      "The Office",
+      "Brooklyn Nine-Nine",
+      "Parks and Recreation"
+    ],
+    "genre": "comedy"
+  },
+  {
+    "quote": "Wingardium Leviosa.",
+    "movie": "Harry Potter and the Sorcerer's Stone",
+    "year": 2001,
+    "options": [
+      "Harry Potter and the Sorcerer's Stone",
+      "Harry Potter and the Chamber of Secrets",
+      "The Chronicles of Narnia",
+      "Fantastic Beasts and Where to Find Them"
+    ],
+    "genre": "scifi"
+  },
+  {
+    "quote": "After all this time? Always.",
+    "movie": "Harry Potter and the Deathly Hallows: Part 2",
+    "year": 2011,
+    "options": [
+      "Harry Potter and the Deathly Hallows: Part 2",
+      "Harry Potter and the Order of the Phoenix",
+      "Harry Potter and the Half-Blood Prince",
+      "Harry Potter and the Goblet of Fire"
+    ],
+    "genre": "drama"
+  },
+  {
+    "quote": "I am Groot.",
+    "movie": "Guardians of the Galaxy",
+    "year": 2014,
+    "options": [
+      "Guardians of the Galaxy",
+      "The Avengers",
+      "Iron Man",
+      "Ant-Man"
+    ],
+    "genre": "action"
+  },
+  {
+    "quote": "I can do this all day.",
+    "movie": "Captain America: The First Avenger",
+    "year": 2011,
+    "options": [
+      "Captain America: The First Avenger",
+      "Captain America: Civil War",
+      "The Avengers",
+      "Captain America: The Winter Soldier"
+    ],
+    "genre": "action"
+  },
+  {
+    "quote": "Wakanda forever!",
+    "movie": "Black Panther",
+    "year": 2018,
+    "options": [
+      "Black Panther",
+      "The Avengers",
+      "Black Panther: Wakanda Forever",
+      "Thor: Ragnarok"
+    ],
+    "genre": "action"
+  },
+  {
+    "quote": "It's turned off. Try turning it on.",
+    "movie": "Zoolander",
+    "year": 2001,
+    "options": [
+      "Zoolander",
+      "Anchorman",
+      "Dodgeball",
+      "Blades of Glory"
+    ],
+    "genre": "comedy"
+  },
+  {
+    "quote": "60% of the time, it works every time.",
+    "movie": "Anchorman: The Legend of Ron Burgundy",
+    "year": 2004,
+    "options": [
+      "Anchorman: The Legend of Ron Burgundy",
+      "Zoolander",
+      "Talladega Nights",
+      "Step Brothers"
+    ],
+    "genre": "comedy"
+  },
+  {
+    "quote": "I love lamp.",
+    "movie": "Anchorman: The Legend of Ron Burgundy",
+    "year": 2004,
+    "options": [
+      "Anchorman: The Legend of Ron Burgundy",
+      "Step Brothers",
+      "Old School",
+      "Talladega Nights"
+    ],
+    "genre": "comedy"
+  },
+  {
+    "quote": "You either die a hero, or you live long enough to see yourself become the villain.",
+    "movie": "The Dark Knight",
+    "year": 2008,
+    "options": [
+      "The Dark Knight",
+      "Batman Begins",
+      "The Dark Knight Rises",
+      "Joker"
+    ],
+    "genre": "action"
+  },
+  {
+    "quote": "Some men just want to watch the world burn.",
+    "movie": "The Dark Knight",
+    "year": 2008,
+    "options": [
+      "The Dark Knight",
+      "Joker",
+      "V for Vendetta",
+      "Watchmen"
+    ],
+    "genre": "action"
+  },
+  {
+    "quote": "I'll make him an offer he can't refuse.",
+    "movie": "The Godfather",
+    "year": 1972,
+    "options": [
+      "The Godfather",
+      "The Godfather Part II",
+      "Goodfellas",
+      "Once Upon a Time in America"
+    ],
+    "genre": "drama"
+  },
+  {
+    "quote": "Leave the gun. Take the cannoli.",
+    "movie": "The Godfather",
+    "year": 1972,
+    "options": [
+      "The Godfather",
+      "The Godfather Part II",
+      "Goodfellas",
+      "Casino"
+    ],
+    "genre": "drama"
+  },
+  {
+    "quote": "As you wish.",
+    "movie": "The Princess Bride",
+    "year": 1987,
+    "options": [
+      "The Princess Bride",
+      "Willow",
+      "Legend",
+      "The NeverEnding Story"
+    ],
+    "genre": "comedy"
+  },
+  {
+    "quote": "Inconceivable!",
+    "movie": "The Princess Bride",
+    "year": 1987,
+    "options": [
+      "The Princess Bride",
+      "Ladyhawke",
+      "Willow",
+      "Krull"
+    ],
     "genre": "comedy"
   }
 ]
