@@ -52,11 +52,11 @@ const timerNum = $('timer-num');
 const genreBadge = $('genre-badge');
 
 const GENRES = {
-  action: { icon: '🎬', color: 'var(--g-action)', text: 'var(--g-action-text)' },
-  comedy: { icon: '😂', color: 'var(--g-comedy)', text: 'var(--g-comedy-text)' },
-  drama: { icon: '🎭', color: 'var(--g-drama)', text: 'var(--g-drama-text)' },
-  scifi: { icon: '🚀', color: 'var(--g-scifi)', text: 'var(--g-scifi-text)' },
-  classic: { icon: '⭐', color: 'var(--g-classic)', text: 'var(--g-classic-text)' },
+  action: { color: 'var(--g-action)', text: 'var(--g-action-text)' },
+  comedy: { color: 'var(--g-comedy)', text: 'var(--g-comedy-text)' },
+  drama: { color: 'var(--g-drama)', text: 'var(--g-drama-text)' },
+  scifi: { color: 'var(--g-scifi)', text: 'var(--g-scifi-text)' },
+  classic: { color: 'var(--g-classic)', text: 'var(--g-classic-text)' },
 };
 
 fetch('quotes.json').then(r => r.json()).then(data => { quotes = data; });
@@ -83,8 +83,8 @@ function nextQuestion() {
   clearInterval(timer);
   if (pool.length === 0) return endGame();
   current = pool.pop();
-  const g = GENRES[current.genre] || { icon: '🎞️', color: 'var(--accent)', text: '#fff' };
-  genreBadge.textContent = `${g.icon} ${current.genre}`;
+  const g = GENRES[current.genre] || { color: 'var(--accent)', text: '#fff' };
+  genreBadge.textContent = current.genre;
   genreBadge.style.background = g.color;
   genreBadge.style.setProperty('--badge-text', g.text);
   quoteEl.textContent = `"${current.quote}"`;
@@ -133,11 +133,11 @@ function choose(opt, btn) {
     streak++;
     const bonus = speedMode ? Math.max(1, Math.ceil(timeLeft)) : 1;
     score += 10 * bonus;
-    feedbackEl.textContent = `🎉 Correct! +${10 * bonus}`;
+    feedbackEl.textContent = `Correct! +${10 * bonus}`;
     beep(660, 0.15);
   } else {
     streak = 0;
-    feedbackEl.textContent = `❌ Nope — it was "${current.movie}"`;
+    feedbackEl.textContent = `Nope — it was "${current.movie}"`;
     beep(180, 0.25);
   }
   updateStats();

@@ -22,7 +22,7 @@
   --muted: rgba(17,17,17,0.60);
   --border: rgba(17,17,17,0.10);
 }
-#settings-btn { background: none; border: none; cursor: pointer; font-size: 1.1rem; padding: 0 4px; }
+#settings-btn { background: none; border: none; cursor: pointer; font-size: 0.85rem; font-weight: 600; color: var(--muted); padding: 0 4px; }
 .setting-row { display: flex; justify-content: space-between; align-items: center; gap: 1rem; margin: 0.75rem 0; }
 /* genre colors: [icon, color, text] */
 :root {
