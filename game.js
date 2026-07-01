@@ -26,6 +26,15 @@ const feedbackEl = $('feedback');
 const timerRing = $('timer-ring');
 const ringFg = $('ring-fg');
 const timerNum = $('timer-num');
+const genreBadge = $('genre-badge');
+
+const GENRES = {
+  action: { icon: '🎬', color: 'var(--g-action)' },
+  comedy: { icon: '😂', color: 'var(--g-comedy)' },
+  drama: { icon: '🎭', color: 'var(--g-drama)' },
+  scifi: { icon: '🚀', color: 'var(--g-scifi)' },
+  classic: { icon: '⭐', color: 'var(--g-classic)' },
+};
 
 fetch('quotes.json').then(r => r.json()).then(data => { quotes = data; });
 
@@ -51,6 +60,9 @@ function nextQuestion() {
   clearInterval(timer);
   if (pool.length === 0) return endGame();
   current = pool.pop();
+  const g = GENRES[current.genre] || { icon: '🎞️', color: 'var(--accent)' };
+  genreBadge.textContent = `${g.icon} ${current.genre}`;
+  genreBadge.style.background = g.color;
   quoteEl.textContent = `"${current.quote}"`;
   quoteEl.style.animation = 'none';
   void quoteEl.offsetWidth;
@@ -97,10 +109,10 @@ function choose(opt, btn) {
     streak++;
     const bonus = speedMode ? Math.max(1, Math.ceil(timeLeft)) : 1;
     score += 10 * bonus;
-    feedbackEl.textContent = `Correct! +${10 * bonus}`;
+    feedbackEl.textContent = `🎉 Correct! +${10 * bonus}`;
   } else {
     streak = 0;
-    feedbackEl.textContent = `Nope — it was "${current.movie}"`;
+    feedbackEl.textContent = `❌ Nope — it was "${current.movie}"`;
   }
   updateStats();
   setTimeout(nextQuestion, 1100);
