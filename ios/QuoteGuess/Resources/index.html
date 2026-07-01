@@ -4,7 +4,12 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>QuoteGuess</title>
+<link rel="icon" href="icon.svg" type="image/svg+xml">
 <link rel="stylesheet" href="style.css">
+<script>
+  document.documentElement.dataset.theme = localStorage.getItem('theme')
+    || (matchMedia('(prefers-color-scheme: light)').matches ? 'light' : 'dark');
+</script>
 </head>
 <body>
   <main class="wrap">
@@ -13,6 +18,7 @@
       <div class="stats">
         <span id="score">Score: 0</span>
         <span id="streak">Streak: 0</span>
+        <button class="theme-toggle" id="theme-toggle" aria-label="Toggle theme">🌓</button>
       </div>
     </header>
 
@@ -38,6 +44,7 @@
         </svg>
         <span id="timer-num"></span>
       </div>
+      <span id="genre-badge" class="genre-badge"></span>
       <blockquote id="quote"></blockquote>
       <div id="options" class="options"></div>
       <p id="feedback"></p>

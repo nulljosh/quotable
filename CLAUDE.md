@@ -3,7 +3,10 @@
 Movie-quote guessing game. Static site, no build step, no backend.
 
 ## Stack
-Plain HTML/CSS/JS. Quote bank in `quotes.json` (~45 hand-seeded quotes — see root roadmap.md for plan to pull from a real quotes API). High score persisted via localStorage.
+Plain HTML/CSS/JS. Quote bank in `quotes.json` (~45 hand-seeded quotes — see root roadmap.md for plan to pull from a real quotes API). High score persisted via localStorage. Genre-colored badges/icons and correct/wrong feedback animations added in v1.1.0.
+
+## iOS/macOS sync
+`ios/QuoteGuess/Resources/` and `macos/Quotable/Resources/` are plain file copies of the root `index.html`/`style.css`/`game.js`/`quotes.json`, not symlinks or a build step. Re-copy the four files into both Resources dirs whenever the root web files change.
 
 ## Deploy
 GitHub Pages via `.github/workflows/deploy.yml` (Settings → Pages → Source: GitHub Actions).
