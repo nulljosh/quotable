@@ -45,6 +45,7 @@ body {
 .wrap { width: 100%; max-width: 480px; padding: 24px 16px; }
 header { display: flex; justify-content: space-between; align-items: baseline; margin-bottom: 16px; gap: 12px; }
 h1 { font-size: 1.4rem; margin: 0; }
+h1 a { color: inherit; text-decoration: none; }
 .theme-toggle {
   background: var(--panel2);
   color: var(--text);
