@@ -50,6 +50,7 @@ const timerRing = $('timer-ring');
 const ringFg = $('ring-fg');
 const timerNum = $('timer-num');
 const genreBadge = $('genre-badge');
+const promptEl = $('prompt');
 
 const GENRES = {
   action: { color: 'var(--g-action)', text: 'var(--g-action-text)' },
@@ -57,9 +58,23 @@ const GENRES = {
   drama: { color: 'var(--g-drama)', text: 'var(--g-drama-text)' },
   scifi: { color: 'var(--g-scifi)', text: 'var(--g-scifi-text)' },
   classic: { color: 'var(--g-classic)', text: 'var(--g-classic-text)' },
+  pop: { color: 'var(--g-pop)', text: 'var(--g-pop-text)' },
+  rock: { color: 'var(--g-rock)', text: 'var(--g-rock-text)' },
+  hiphop: { color: 'var(--g-hiphop)', text: 'var(--g-hiphop-text)' },
+  rnb: { color: 'var(--g-rnb)', text: 'var(--g-rnb-text)' },
+  country: { color: 'var(--g-country)', text: 'var(--g-country-text)' },
 };
 
-fetch('quotes.json').then(r => r.json()).then(data => { quotes = data; });
+fetch('quotes.json').then(r => r.json()).then(data => {
+  quotes = data;
+  const genreSelect = $('genre');
+  [...new Set(data.map(q => q.genre))].sort().forEach(g => {
+    const opt = document.createElement('option');
+    opt.value = g;
+    opt.textContent = g[0].toUpperCase() + g.slice(1);
+    genreSelect.appendChild(opt);
+  });
+});
 
 function shuffle(arr) {
   return [...arr].sort(() => Math.random() - 0.5);
@@ -93,6 +108,7 @@ function nextQuestion() {
   quoteEl.style.animation = '';
   feedbackEl.textContent = '';
   optionsEl.innerHTML = '';
+  promptEl.textContent = current.type === 'music' ? 'Guess the artist from the lyric.' : 'Guess the movie from the quote.';
   shuffle(current.options).forEach(opt => {
     const btn = document.createElement('button');
     btn.textContent = opt;
@@ -123,9 +139,9 @@ function updateRing() {
 
 function choose(opt, btn) {
   clearInterval(timer);
-  const correct = opt === current.movie;
+  const correct = opt === current.answer;
   [...optionsEl.children].forEach(b => {
-    if (b.textContent === current.movie) b.classList.add('correct');
+    if (b.textContent === current.answer) b.classList.add('correct');
     else if (b === btn) b.classList.add('wrong');
     b.disabled = true;
   });
@@ -137,7 +153,7 @@ function choose(opt, btn) {
     beep(660, 0.15);
   } else {
     streak = 0;
-    feedbackEl.textContent = `Nope — it was "${current.movie}"`;
+    feedbackEl.textContent = `Nope — it was "${current.answer}"`;
     beep(180, 0.25);
   }
   updateStats();

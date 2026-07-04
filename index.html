@@ -13,16 +13,17 @@
 </script>
 </head>
 <body>
+  <nav class="topbar">
+    <a href="/" aria-label="Quotable home"><img src="icon.svg" alt="Quotable" class="logo"></a>
+    <div class="stats">
+      <span id="score">Score: 0</span>
+      <span id="streak">Streak: 0</span>
+      <button id="settings-btn" aria-label="Settings">
+        <svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="3"/><path d="M19.4 15a1.65 1.65 0 0 0 .33 1.82l.06.06a2 2 0 1 1-2.83 2.83l-.06-.06a1.65 1.65 0 0 0-1.82-.33 1.65 1.65 0 0 0-1 1.51V21a2 2 0 0 1-4 0v-.09A1.65 1.65 0 0 0 9 19.4a1.65 1.65 0 0 0-1.82.33l-.06.06a2 2 0 1 1-2.83-2.83l.06-.06a1.65 1.65 0 0 0 .33-1.82 1.65 1.65 0 0 0-1.51-1H3a2 2 0 0 1 0-4h.09A1.65 1.65 0 0 0 4.6 9a1.65 1.65 0 0 0-.33-1.82l-.06-.06a2 2 0 1 1 2.83-2.83l.06.06a1.65 1.65 0 0 0 1.82.33H9a1.65 1.65 0 0 0 1-1.51V3a2 2 0 0 1 4 0v.09a1.65 1.65 0 0 0 1 1.51 1.65 1.65 0 0 0 1.82-.33l.06-.06a2 2 0 1 1 2.83 2.83l-.06.06a1.65 1.65 0 0 0-.33 1.82V9c.36.31.64.7.82 1.13.19.42.29.87.29 1.33"/></svg>
+      </button>
+    </div>
+  </nav>
   <main class="wrap">
-    <header>
-      <h1><a href="/"><img src="icon.svg" alt="" class="logo">Quotable</a></h1>
-      <div class="stats">
-        <span id="score">Score: 0</span>
-        <span id="streak">Streak: 0</span>
-        <button id="settings-btn" aria-label="Settings">Settings</button>
-      </div>
-    </header>
-
     <div id="settings" class="panel hidden">
       <h2>Settings</h2>
       <label class="setting-row">
@@ -37,14 +38,9 @@
     </div>
 
     <div id="mode-select" class="panel">
-      <p>Guess the movie from the quote.</p>
+      <p>Guess the movie or artist from the quote.</p>
       <select id="genre">
         <option value="all">All genres</option>
-        <option value="action">Action</option>
-        <option value="comedy">Comedy</option>
-        <option value="drama">Drama</option>
-        <option value="scifi">Sci-Fi</option>
-        <option value="classic">Classic</option>
       </select>
       <button id="start-normal">Play</button>
       <button id="start-speed">Speed Round (10s)</button>
@@ -59,6 +55,7 @@
         <span id="timer-num"></span>
       </div>
       <span id="genre-badge" class="genre-badge"></span>
+      <p id="prompt" class="prompt"></p>
       <blockquote id="quote"></blockquote>
       <div id="options" class="options"></div>
       <p id="feedback"></p>
