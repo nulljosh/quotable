@@ -62,7 +62,7 @@ body {
   top: 0;
   z-index: 10;
 }
-.logo { width: 36px; height: 36px; border-radius: 8px; color: var(--text); display: flex; }
+.logo { width: 48px; height: 48px; border-radius: 8px; color: var(--text); display: flex; }
 .stats { display: flex; align-items: center; gap: 18px; font-size: 1.05rem; color: var(--accent); font-weight: 600; }
 #settings-btn { display: flex; align-items: center; color: var(--muted); }
 .wrap {
