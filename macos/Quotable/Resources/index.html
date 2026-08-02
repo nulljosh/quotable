@@ -6,6 +6,7 @@
 <title>Quotable</title>
 <link rel="icon" href="icon.svg" type="image/svg+xml">
 <link rel="stylesheet" href="style.css">
+<script src="i18n.js"></script>
 <script>
   const mq = matchMedia('(prefers-color-scheme: light)');
   document.documentElement.dataset.theme = mq.matches ? 'light' : 'dark';
@@ -33,25 +34,25 @@
   </nav>
   <main class="wrap">
     <div id="settings" class="panel hidden">
-      <h2>Settings</h2>
+      <h2 data-i18n="Settings">Settings</h2>
       <label class="setting-row">
-        <span>Sound effects</span>
+        <span data-i18n="Sound effects">Sound effects</span>
         <input type="checkbox" id="sfx-toggle">
       </label>
       <label class="setting-row">
-        <span>Volume</span>
+        <span data-i18n="Volume">Volume</span>
         <input type="range" id="sfx-volume" min="0" max="100" value="60">
       </label>
-      <button id="settings-close">Close</button>
+      <button id="settings-close" data-i18n="Close">Close</button>
     </div>
 
     <div id="mode-select" class="panel">
-      <p>Guess the movie or artist from the quote.</p>
+      <p data-i18n="Guess the movie or artist from the quote.">Guess the movie or artist from the quote.</p>
       <select id="genre">
-        <option value="all">All genres</option>
+        <option value="all" data-i18n="All genres">All genres</option>
       </select>
-      <button id="start-normal">Play</button>
-      <button id="start-speed">Speed Round (10s)</button>
+      <button id="start-normal" data-i18n="Play">Play</button>
+      <button id="start-speed" data-i18n="Speed Round (10s)">Speed Round (10s)</button>
     </div>
 
     <div id="game" class="panel hidden">
@@ -70,10 +71,10 @@
     </div>
 
     <div id="end" class="panel hidden">
-      <h2>Game Over</h2>
+      <h2 data-i18n="Game Over">Game Over</h2>
       <p id="final-score"></p>
-      <button id="restart">Play Again</button>
-      <button id="share">Share Score</button>
+      <button id="restart" data-i18n="Play Again">Play Again</button>
+      <button id="share" data-i18n="Share Score">Share Score</button>
     </div>
   </main>
   <script src="game.js"></script>

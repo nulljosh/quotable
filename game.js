@@ -108,7 +108,7 @@ function nextQuestion() {
   quoteEl.style.animation = '';
   feedbackEl.textContent = '';
   optionsEl.innerHTML = '';
-  promptEl.textContent = current.type === 'music' ? 'Guess the artist from the lyric.' : 'Guess the movie from the quote.';
+  promptEl.textContent = I18N.t(current.type === 'music' ? 'Guess the artist from the lyric.' : 'Guess the movie from the quote.');
   shuffle(current.options).forEach(opt => {
     const btn = document.createElement('button');
     btn.textContent = opt;
@@ -150,11 +150,11 @@ function choose(opt, btn) {
     streak++;
     const bonus = speedMode ? Math.max(1, Math.ceil(timeLeft)) : 1;
     score += 10 * bonus;
-    feedbackEl.textContent = `Correct! +${10 * bonus}`;
+    feedbackEl.textContent = I18N.t('Correct! +{n}', { n: 10 * bonus });
     beep(660, 0.15);
   } else {
     streak = 0;
-    feedbackEl.textContent = `Nope — it was "${current.answer}"`;
+    feedbackEl.textContent = I18N.t('Nope — it was "{s}"', { s: current.answer });
     beep(180, 0.25);
   }
   updateStats();
@@ -179,8 +179,8 @@ function flashArt() {
 }
 
 function updateStats() {
-  $('score').textContent = `Score: ${score}`;
-  $('streak').textContent = `Streak: ${streak}`;
+  $('score').textContent = I18N.t('Score: {n}', { n: score });
+  $('streak').textContent = I18N.t('Streak: {n}', { n: streak });
 }
 
 function endGame() {
@@ -188,7 +188,7 @@ function endGame() {
   endEl.classList.remove('hidden');
   const high = Math.max(score, parseInt(localStorage.getItem(HIGH_KEY) || '0', 10));
   localStorage.setItem(HIGH_KEY, high);
-  $('final-score').textContent = `Final score: ${score} · High score: ${high}`;
+  $('final-score').textContent = I18N.t('Final score: {n1} · High score: {n2}', { n1: score, n2: high });
 }
 
 $('start-normal').onclick = () => startGame(false);
@@ -201,7 +201,7 @@ $('share').onclick = () => {
   const text = `I scored ${score} on Quotable! Can you beat me? https://nulljosh.github.io/quotable`;
   if (navigator.share) navigator.share({ text });
   else navigator.clipboard.writeText(text).then(() => {
-    $('share').textContent = 'Copied!';
-    setTimeout(() => { $('share').textContent = 'Share Score'; }, 1500);
+    $('share').textContent = I18N.t('Copied!');
+    setTimeout(() => { $('share').textContent = I18N.t('Share Score'); }, 1500);
   });
 };
