@@ -10,7 +10,8 @@
     ],
     "genre": "drama",
     "answer": "The Godfather",
-    "type": "movie"
+    "type": "movie",
+    "art": "https://image.tmdb.org/t/p/w500/3bhkrj58Vtu7enYsRolD1fZdja1.jpg"
   },
   {
     "quote": "May the Force be with you.",
@@ -23,7 +24,8 @@
     ],
     "genre": "scifi",
     "answer": "Star Wars",
-    "type": "movie"
+    "type": "movie",
+    "art": "https://image.tmdb.org/t/p/w500/6FfCtAuVAW8XJjZ7eWeLibRLWTw.jpg"
   },
   {
     "quote": "You're gonna need a bigger boat.",
@@ -36,7 +38,8 @@
     ],
     "genre": "action",
     "answer": "Jaws",
-    "type": "movie"
+    "type": "movie",
+    "art": "https://image.tmdb.org/t/p/w500/lxM6kqilAdpdhqUl2biYp5frUxE.jpg"
   },
   {
     "quote": "Here's looking at you, kid.",
@@ -49,7 +52,8 @@
     ],
     "genre": "classic",
     "answer": "Casablanca",
-    "type": "movie"
+    "type": "movie",
+    "art": "https://image.tmdb.org/t/p/w500/lGCEKlJo2CnWydQj7aamY7s1S7Q.jpg"
   },
   {
     "quote": "I'll be back.",
@@ -62,7 +66,8 @@
     ],
     "genre": "scifi",
     "answer": "The Terminator",
-    "type": "movie"
+    "type": "movie",
+    "art": "https://image.tmdb.org/t/p/w500/qvktm0BHcnmDpul4Hz01GIazWPr.jpg"
   },
   {
     "quote": "Life is like a box of chocolates.",
@@ -75,7 +80,8 @@
     ],
     "genre": "drama",
     "answer": "Forrest Gump",
-    "type": "movie"
+    "type": "movie",
+    "art": "https://image.tmdb.org/t/p/w500/Cw4hIUIAmSYfK9QfaUW5igp9La.jpg"
   },
   {
     "quote": "Why so serious?",
@@ -88,7 +94,8 @@
     ],
     "genre": "action",
     "answer": "The Dark Knight",
-    "type": "movie"
+    "type": "movie",
+    "art": "https://image.tmdb.org/t/p/w500/qJ2tW6WMUDux911r6m7haRef0WH.jpg"
   },
   {
     "quote": "I see dead people.",
@@ -101,7 +108,8 @@
     ],
     "genre": "drama",
     "answer": "The Sixth Sense",
-    "type": "movie"
+    "type": "movie",
+    "art": "https://image.tmdb.org/t/p/w500/vOyfUXNFSnaTk7Vk5AjpsKTUWsu.jpg"
   },
   {
     "quote": "You can't handle the truth!",
@@ -114,7 +122,8 @@
     ],
     "genre": "drama",
     "answer": "A Few Good Men",
-    "type": "movie"
+    "type": "movie",
+    "art": "https://image.tmdb.org/t/p/w500/rLOk4z9zL1tTukIYV56P94aZXKk.jpg"
   },
   {
     "quote": "To infinity and beyond!",
@@ -127,7 +136,8 @@
     ],
     "genre": "comedy",
     "answer": "Toy Story",
-    "type": "movie"
+    "type": "movie",
+    "art": "https://image.tmdb.org/t/p/w500/uXDfjJbdP4ijW5hWSBrPrlKpxab.jpg"
   },
   {
     "quote": "Houston, we have a problem.",
@@ -140,7 +150,8 @@
     ],
     "genre": "drama",
     "answer": "Apollo 13",
-    "type": "movie"
+    "type": "movie",
+    "art": "https://image.tmdb.org/t/p/w500/tVeKscCm2fY1xDXZk8PgnZ87h9S.jpg"
   },
   {
     "quote": "Say hello to my little friend!",
@@ -153,7 +164,8 @@
     ],
     "genre": "action",
     "answer": "Scarface",
-    "type": "movie"
+    "type": "movie",
+    "art": "https://image.tmdb.org/t/p/w500/iQ5ztdjvteGeboxtmRdXEChJOHh.jpg"
   },
   {
     "quote": "There's no place like home.",
@@ -166,7 +178,8 @@
     ],
     "genre": "classic",
     "answer": "The Wizard of Oz",
-    "type": "movie"
+    "type": "movie",
+    "art": "https://image.tmdb.org/t/p/w500/uCC3j4pV9eOZwzDUWp2ilbcTf1f.jpg"
   },
   {
     "quote": "I feel the need — the need for speed.",
@@ -179,7 +192,8 @@
     ],
     "genre": "action",
     "answer": "Top Gun",
-    "type": "movie"
+    "type": "movie",
+    "art": "https://image.tmdb.org/t/p/w500/xUuHj3CgmZQ9P2cMaqQs4J0d4Zc.jpg"
   },
   {
     "quote": "My precious.",
@@ -192,7 +206,8 @@
     ],
     "genre": "scifi",
     "answer": "The Lord of the Rings: The Two Towers",
-    "type": "movie"
+    "type": "movie",
+    "art": "https://image.tmdb.org/t/p/w500/5VTN0pR8gcqV3EPUHHfMGnJYN9L.jpg"
   },
   {
     "quote": "Just keep swimming.",
@@ -205,7 +220,8 @@
     ],
     "genre": "comedy",
     "answer": "Finding Nemo",
-    "type": "movie"
+    "type": "movie",
+    "art": "https://image.tmdb.org/t/p/w500/5lc6nQc0VhWFYFbNv016xze8Jvy.jpg"
   },
   {
     "quote": "Roads? Where we're going, we don't need roads.",
@@ -218,7 +234,8 @@
     ],
     "genre": "scifi",
     "answer": "Back to the Future",
-    "type": "movie"
+    "type": "movie",
+    "art": "https://image.tmdb.org/t/p/w500/vN5B5WgYscRGcQpVhHl6p9DDTP0.jpg"
   },
   {
     "quote": "Nobody puts Baby in a corner.",
@@ -231,7 +248,8 @@
     ],
     "genre": "drama",
     "answer": "Dirty Dancing",
-    "type": "movie"
+    "type": "movie",
+    "art": "https://image.tmdb.org/t/p/w500/9Jw6jys7q9gjzVX5zm1z0gC8gY9.jpg"
   },
   {
     "quote": "It's alive! It's alive!",
@@ -244,7 +262,8 @@
     ],
     "genre": "classic",
     "answer": "Frankenstein",
-    "type": "movie"
+    "type": "movie",
+    "art": "https://image.tmdb.org/t/p/w500/mu6wHwH0IwCCaEYtpqujuPJYat1.jpg"
   },
   {
     "quote": "Hasta la vista, baby.",
@@ -257,7 +276,8 @@
     ],
     "genre": "scifi",
     "answer": "Terminator 2: Judgment Day",
-    "type": "movie"
+    "type": "movie",
+    "art": "https://image.tmdb.org/t/p/w500/jFTVD4XoWQTcg7wdyJKa8PEds5q.jpg"
   },
   {
     "quote": "You had me at hello.",
@@ -270,7 +290,8 @@
     ],
     "genre": "drama",
     "answer": "Jerry Maguire",
-    "type": "movie"
+    "type": "movie",
+    "art": "https://image.tmdb.org/t/p/w500/lABvGN7fDk5ifnwZoxij6G96t2w.jpg"
   },
   {
     "quote": "Wax on, wax off.",
@@ -283,7 +304,8 @@
     ],
     "genre": "action",
     "answer": "The Karate Kid",
-    "type": "movie"
+    "type": "movie",
+    "art": "https://image.tmdb.org/t/p/w500/1mp4ViklKvA0WXXsNvNx0RBuiit.jpg"
   },
   {
     "quote": "I am your father.",
@@ -296,7 +318,8 @@
     ],
     "genre": "scifi",
     "answer": "The Empire Strikes Back",
-    "type": "movie"
+    "type": "movie",
+    "art": "https://image.tmdb.org/t/p/w500/nNAeTmF4CtdSgMDplXTDPOpYzsX.jpg"
   },
   {
     "quote": "Say 'what' again. I dare you.",
@@ -309,7 +332,8 @@
     ],
     "genre": "action",
     "answer": "Pulp Fiction",
-    "type": "movie"
+    "type": "movie",
+    "art": "https://image.tmdb.org/t/p/w500/vQWk5YBFWF4bZaofAbv0tShwBvQ.jpg"
   },
   {
     "quote": "One does not simply walk into Mordor.",
@@ -322,7 +346,8 @@
     ],
     "genre": "scifi",
     "answer": "The Lord of the Rings: The Fellowship of the Ring",
-    "type": "movie"
+    "type": "movie",
+    "art": "https://image.tmdb.org/t/p/w500/6oom5QYQ2yQTMJIbnvbkBL9cHo6.jpg"
   },
   {
     "quote": "Bond. James Bond.",
@@ -335,7 +360,8 @@
     ],
     "genre": "action",
     "answer": "Dr. No",
-    "type": "movie"
+    "type": "movie",
+    "art": "https://image.tmdb.org/t/p/w500/9zCOLJmLNst0sCPZlkW1IRoH65E.jpg"
   },
   {
     "quote": "Get to the choppa!",
@@ -348,7 +374,8 @@
     ],
     "genre": "action",
     "answer": "Predator",
-    "type": "movie"
+    "type": "movie",
+    "art": "https://image.tmdb.org/t/p/w500/k3mW4qfJo6SKqe6laRyNGnbB9n5.jpg"
   },
   {
     "quote": "You talkin' to me?",
@@ -361,7 +388,8 @@
     ],
     "genre": "drama",
     "answer": "Taxi Driver",
-    "type": "movie"
+    "type": "movie",
+    "art": "https://image.tmdb.org/t/p/w500/ekstpH614fwDX8DUln1a2Opz0N8.jpg"
   },
   {
     "quote": "Frankly, my dear, I don't give a damn.",
@@ -374,7 +402,8 @@
     ],
     "genre": "classic",
     "answer": "Gone with the Wind",
-    "type": "movie"
+    "type": "movie",
+    "art": "https://image.tmdb.org/t/p/w500/lNz2Ow0wGCAvzckW7EOjE03KcYv.jpg"
   },
   {
     "quote": "Show me the money!",
@@ -387,7 +416,8 @@
     ],
     "genre": "drama",
     "answer": "Jerry Maguire",
-    "type": "movie"
+    "type": "movie",
+    "art": "https://image.tmdb.org/t/p/w500/lABvGN7fDk5ifnwZoxij6G96t2w.jpg"
   },
   {
     "quote": "I'm king of the world!",
@@ -400,7 +430,8 @@
     ],
     "genre": "drama",
     "answer": "Titanic",
-    "type": "movie"
+    "type": "movie",
+    "art": "https://image.tmdb.org/t/p/w500/9xjZS2rlVxm8SFx8kPC3aIGCOYQ.jpg"
   },
   {
     "quote": "Elementary, my dear Watson.",
@@ -413,7 +444,8 @@
     ],
     "genre": "classic",
     "answer": "Sherlock Holmes",
-    "type": "movie"
+    "type": "movie",
+    "art": "https://image.tmdb.org/t/p/w500/xjMwpbxI9JcC7Ck9DDwfV5kJlIQ.jpg"
   },
   {
     "quote": "Keep your friends close, but your enemies closer.",
@@ -426,7 +458,8 @@
     ],
     "genre": "drama",
     "answer": "The Godfather Part II",
-    "type": "movie"
+    "type": "movie",
+    "art": "https://image.tmdb.org/t/p/w500/hek3koDUyRQk7FIhPXsa6mT2Zc3.jpg"
   },
   {
     "quote": "There's no crying in baseball!",
@@ -439,7 +472,8 @@
     ],
     "genre": "comedy",
     "answer": "A League of Their Own",
-    "type": "movie"
+    "type": "movie",
+    "art": "https://image.tmdb.org/t/p/w500/f9BtX6wYOwJUyfUr4vyeT3COz6m.jpg"
   },
   {
     "quote": "This is Sparta!",
@@ -452,7 +486,8 @@
     ],
     "genre": "action",
     "answer": "300",
-    "type": "movie"
+    "type": "movie",
+    "art": "https://image.tmdb.org/t/p/w500/h7Lcio0c9ohxPhSZg42eTlKIVVY.jpg"
   },
   {
     "quote": "I love the smell of napalm in the morning.",
@@ -465,7 +500,8 @@
     ],
     "genre": "drama",
     "answer": "Apocalypse Now",
-    "type": "movie"
+    "type": "movie",
+    "art": "https://image.tmdb.org/t/p/w500/gQB8Y5RCMkv2zwzFHbUJX3kAhvA.jpg"
   },
   {
     "quote": "Snap out of it!",
@@ -478,7 +514,8 @@
     ],
     "genre": "comedy",
     "answer": "Moonstruck",
-    "type": "movie"
+    "type": "movie",
+    "art": "https://image.tmdb.org/t/p/w500/2mnVWpvsHEHHnfvLn1NXYVvBGl5.jpg"
   },
   {
     "quote": "Yippee-ki-yay.",
@@ -491,7 +528,8 @@
     ],
     "genre": "action",
     "answer": "Die Hard",
-    "type": "movie"
+    "type": "movie",
+    "art": "https://image.tmdb.org/t/p/w500/7Bjd8kfmDSOzpmhySpEhkUyK2oH.jpg"
   },
   {
     "quote": "Carpe diem. Seize the day, boys.",
@@ -504,7 +542,8 @@
     ],
     "genre": "drama",
     "answer": "Dead Poets Society",
-    "type": "movie"
+    "type": "movie",
+    "art": "https://image.tmdb.org/t/p/w500/tNvKkSnnn4Z6RCBThyK1gfCSSvv.jpg"
   },
   {
     "quote": "Great Scott!",
@@ -517,7 +556,8 @@
     ],
     "genre": "scifi",
     "answer": "Back to the Future",
-    "type": "movie"
+    "type": "movie",
+    "art": "https://image.tmdb.org/t/p/w500/vN5B5WgYscRGcQpVhHl6p9DDTP0.jpg"
   },
   {
     "quote": "Is it soup yet?",
@@ -530,7 +570,8 @@
     ],
     "genre": "comedy",
     "answer": "Twins",
-    "type": "movie"
+    "type": "movie",
+    "art": "https://image.tmdb.org/t/p/w500/stJx9BQZbXrZnTGf9Erc7d2UMVc.jpg"
   },
   {
     "quote": "Adrian!",
@@ -543,7 +584,8 @@
     ],
     "genre": "drama",
     "answer": "Rocky",
-    "type": "movie"
+    "type": "movie",
+    "art": "https://image.tmdb.org/t/p/w500/aYtBYWqCdUqcnoodWJdcTG3pFev.jpg"
   },
   {
     "quote": "Chewie, we're home.",
@@ -556,7 +598,8 @@
     ],
     "genre": "scifi",
     "answer": "Star Wars: The Force Awakens",
-    "type": "movie"
+    "type": "movie",
+    "art": "https://image.tmdb.org/t/p/w500/wqnLdwVXoBjKibFRR5U3y0aDUhs.jpg"
   },
   {
     "quote": "Toga! Toga!",
@@ -569,7 +612,8 @@
     ],
     "genre": "comedy",
     "answer": "National Lampoon's Animal House",
-    "type": "movie"
+    "type": "movie",
+    "art": "https://image.tmdb.org/t/p/w500/fWooBbipMRIKeSRhEzmeaDV0T8H.jpg"
   },
   {
     "quote": "It's not a tumor!",
@@ -582,7 +626,8 @@
     ],
     "genre": "comedy",
     "answer": "Kindergarten Cop",
-    "type": "movie"
+    "type": "movie",
+    "art": "https://image.tmdb.org/t/p/w500/nKnHWwkXyvhzCYWm3FyRAv3qBrl.jpg"
   },
   {
     "quote": "Fasten your seatbelts. It's going to be a bumpy night.",
@@ -595,7 +640,8 @@
     ],
     "genre": "classic",
     "answer": "All About Eve",
-    "type": "movie"
+    "type": "movie",
+    "art": "https://image.tmdb.org/t/p/w500/blBzZaatPWVuWpXEnPscMA4Xp6m.jpg"
   },
   {
     "quote": "You can't handle the truth!",
@@ -608,7 +654,8 @@
     ],
     "genre": "drama",
     "answer": "A Few Good Men",
-    "type": "movie"
+    "type": "movie",
+    "art": "https://image.tmdb.org/t/p/w500/rLOk4z9zL1tTukIYV56P94aZXKk.jpg"
   },
   {
     "quote": "I'll be back.",
@@ -621,7 +668,8 @@
     ],
     "genre": "scifi",
     "answer": "The Terminator",
-    "type": "movie"
+    "type": "movie",
+    "art": "https://image.tmdb.org/t/p/w500/qvktm0BHcnmDpul4Hz01GIazWPr.jpg"
   },
   {
     "quote": "Why so serious?",
@@ -634,7 +682,8 @@
     ],
     "genre": "action",
     "answer": "The Dark Knight",
-    "type": "movie"
+    "type": "movie",
+    "art": "https://image.tmdb.org/t/p/w500/qJ2tW6WMUDux911r6m7haRef0WH.jpg"
   },
   {
     "quote": "Here's looking at you, kid.",
@@ -647,7 +696,8 @@
     ],
     "genre": "classic",
     "answer": "Casablanca",
-    "type": "movie"
+    "type": "movie",
+    "art": "https://image.tmdb.org/t/p/w500/lGCEKlJo2CnWydQj7aamY7s1S7Q.jpg"
   },
   {
     "quote": "There's no place like home.",
@@ -660,7 +710,8 @@
     ],
     "genre": "classic",
     "answer": "The Wizard of Oz",
-    "type": "movie"
+    "type": "movie",
+    "art": "https://image.tmdb.org/t/p/w500/uCC3j4pV9eOZwzDUWp2ilbcTf1f.jpg"
   },
   {
     "quote": "Say hello to my little friend!",
@@ -673,7 +724,8 @@
     ],
     "genre": "drama",
     "answer": "Scarface",
-    "type": "movie"
+    "type": "movie",
+    "art": "https://image.tmdb.org/t/p/w500/iQ5ztdjvteGeboxtmRdXEChJOHh.jpg"
   },
   {
     "quote": "You had me at hello.",
@@ -686,7 +738,8 @@
     ],
     "genre": "drama",
     "answer": "Jerry Maguire",
-    "type": "movie"
+    "type": "movie",
+    "art": "https://image.tmdb.org/t/p/w500/lABvGN7fDk5ifnwZoxij6G96t2w.jpg"
   },
   {
     "quote": "I feel the need — the need for speed.",
@@ -699,7 +752,8 @@
     ],
     "genre": "action",
     "answer": "Top Gun",
-    "type": "movie"
+    "type": "movie",
+    "art": "https://image.tmdb.org/t/p/w500/xUuHj3CgmZQ9P2cMaqQs4J0d4Zc.jpg"
   },
   {
     "quote": "My precious.",
@@ -712,7 +766,8 @@
     ],
     "genre": "scifi",
     "answer": "The Lord of the Rings: The Two Towers",
-    "type": "movie"
+    "type": "movie",
+    "art": "https://image.tmdb.org/t/p/w500/5VTN0pR8gcqV3EPUHHfMGnJYN9L.jpg"
   },
   {
     "quote": "Just keep swimming.",
@@ -725,7 +780,8 @@
     ],
     "genre": "comedy",
     "answer": "Finding Nemo",
-    "type": "movie"
+    "type": "movie",
+    "art": "https://image.tmdb.org/t/p/w500/5lc6nQc0VhWFYFbNv016xze8Jvy.jpg"
   },
   {
     "quote": "Nobody puts Baby in a corner.",
@@ -738,7 +794,8 @@
     ],
     "genre": "drama",
     "answer": "Dirty Dancing",
-    "type": "movie"
+    "type": "movie",
+    "art": "https://image.tmdb.org/t/p/w500/9Jw6jys7q9gjzVX5zm1z0gC8gY9.jpg"
   },
   {
     "quote": "It's alive! It's alive!",
@@ -751,7 +808,8 @@
     ],
     "genre": "classic",
     "answer": "Frankenstein",
-    "type": "movie"
+    "type": "movie",
+    "art": "https://image.tmdb.org/t/p/w500/mu6wHwH0IwCCaEYtpqujuPJYat1.jpg"
   },
   {
     "quote": "Hasta la vista, baby.",
@@ -764,7 +822,8 @@
     ],
     "genre": "scifi",
     "answer": "Terminator 2: Judgment Day",
-    "type": "movie"
+    "type": "movie",
+    "art": "https://image.tmdb.org/t/p/w500/jFTVD4XoWQTcg7wdyJKa8PEds5q.jpg"
   },
   {
     "quote": "Wax on, wax off.",
@@ -777,7 +836,8 @@
     ],
     "genre": "drama",
     "answer": "The Karate Kid",
-    "type": "movie"
+    "type": "movie",
+    "art": "https://image.tmdb.org/t/p/w500/1mp4ViklKvA0WXXsNvNx0RBuiit.jpg"
   },
   {
     "quote": "No, I am your father.",
@@ -790,7 +850,8 @@
     ],
     "genre": "scifi",
     "answer": "The Empire Strikes Back",
-    "type": "movie"
+    "type": "movie",
+    "art": "https://image.tmdb.org/t/p/w500/nNAeTmF4CtdSgMDplXTDPOpYzsX.jpg"
   },
   {
     "quote": "Frankly, my dear, I don't give a damn.",
@@ -803,7 +864,8 @@
     ],
     "genre": "classic",
     "answer": "Gone with the Wind",
-    "type": "movie"
+    "type": "movie",
+    "art": "https://image.tmdb.org/t/p/w500/lNz2Ow0wGCAvzckW7EOjE03KcYv.jpg"
   },
   {
     "quote": "I'll have what she's having.",
@@ -816,7 +878,8 @@
     ],
     "genre": "comedy",
     "answer": "When Harry Met Sally...",
-    "type": "movie"
+    "type": "movie",
+    "art": "https://image.tmdb.org/t/p/w500/rFOiFUhTMtDetqCGClC9PIgnC1P.jpg"
   },
   {
     "quote": "Life is like a box of chocolates. You never know what you're gonna get.",
@@ -829,7 +892,8 @@
     ],
     "genre": "drama",
     "answer": "Forrest Gump",
-    "type": "movie"
+    "type": "movie",
+    "art": "https://image.tmdb.org/t/p/w500/Cw4hIUIAmSYfK9QfaUW5igp9La.jpg"
   },
   {
     "quote": "You talking to me?",
@@ -842,7 +906,8 @@
     ],
     "genre": "drama",
     "answer": "Taxi Driver",
-    "type": "movie"
+    "type": "movie",
+    "art": "https://image.tmdb.org/t/p/w500/ekstpH614fwDX8DUln1a2Opz0N8.jpg"
   },
   {
     "quote": "Houston, we have a problem.",
@@ -855,7 +920,8 @@
     ],
     "genre": "drama",
     "answer": "Apollo 13",
-    "type": "movie"
+    "type": "movie",
+    "art": "https://image.tmdb.org/t/p/w500/tVeKscCm2fY1xDXZk8PgnZ87h9S.jpg"
   },
   {
     "quote": "I see dead people.",
@@ -868,7 +934,8 @@
     ],
     "genre": "drama",
     "answer": "The Sixth Sense",
-    "type": "movie"
+    "type": "movie",
+    "art": "https://image.tmdb.org/t/p/w500/vOyfUXNFSnaTk7Vk5AjpsKTUWsu.jpg"
   },
   {
     "quote": "To infinity and beyond!",
@@ -881,7 +948,8 @@
     ],
     "genre": "comedy",
     "answer": "Toy Story",
-    "type": "movie"
+    "type": "movie",
+    "art": "https://image.tmdb.org/t/p/w500/uXDfjJbdP4ijW5hWSBrPrlKpxab.jpg"
   },
   {
     "quote": "Yippee-ki-yay, motherf***er.",
@@ -894,7 +962,8 @@
     ],
     "genre": "action",
     "answer": "Die Hard",
-    "type": "movie"
+    "type": "movie",
+    "art": "https://image.tmdb.org/t/p/w500/7Bjd8kfmDSOzpmhySpEhkUyK2oH.jpg"
   },
   {
     "quote": "Carpe diem. Seize the day, boys.",
@@ -907,7 +976,8 @@
     ],
     "genre": "drama",
     "answer": "Dead Poets Society",
-    "type": "movie"
+    "type": "movie",
+    "art": "https://image.tmdb.org/t/p/w500/tNvKkSnnn4Z6RCBThyK1gfCSSvv.jpg"
   },
   {
     "quote": "Great Scott!",
@@ -920,7 +990,8 @@
     ],
     "genre": "scifi",
     "answer": "Back to the Future",
-    "type": "movie"
+    "type": "movie",
+    "art": "https://image.tmdb.org/t/p/w500/vN5B5WgYscRGcQpVhHl6p9DDTP0.jpg"
   },
   {
     "quote": "It ain't over till it's over.",
@@ -933,7 +1004,8 @@
     ],
     "genre": "comedy",
     "answer": "A League of Their Own",
-    "type": "movie"
+    "type": "movie",
+    "art": "https://image.tmdb.org/t/p/w500/f9BtX6wYOwJUyfUr4vyeT3COz6m.jpg"
   },
   {
     "quote": "This is Sparta!",
@@ -946,7 +1018,8 @@
     ],
     "genre": "action",
     "answer": "300",
-    "type": "movie"
+    "type": "movie",
+    "art": "https://image.tmdb.org/t/p/w500/h7Lcio0c9ohxPhSZg42eTlKIVVY.jpg"
   },
   {
     "quote": "The horror. The horror.",
@@ -959,7 +1032,8 @@
     ],
     "genre": "drama",
     "answer": "Apocalypse Now",
-    "type": "movie"
+    "type": "movie",
+    "art": "https://image.tmdb.org/t/p/w500/gQB8Y5RCMkv2zwzFHbUJX3kAhvA.jpg"
   },
   {
     "quote": "Snap out of it!",
@@ -972,7 +1046,8 @@
     ],
     "genre": "comedy",
     "answer": "Moonstruck",
-    "type": "movie"
+    "type": "movie",
+    "art": "https://image.tmdb.org/t/p/w500/2mnVWpvsHEHHnfvLn1NXYVvBGl5.jpg"
   },
   {
     "quote": "It's not a tumor!",
@@ -985,7 +1060,8 @@
     ],
     "genre": "comedy",
     "answer": "Kindergarten Cop",
-    "type": "movie"
+    "type": "movie",
+    "art": "https://image.tmdb.org/t/p/w500/nKnHWwkXyvhzCYWm3FyRAv3qBrl.jpg"
   },
   {
     "quote": "Toga! Toga!",
@@ -998,7 +1074,8 @@
     ],
     "genre": "comedy",
     "answer": "National Lampoon's Animal House",
-    "type": "movie"
+    "type": "movie",
+    "art": "https://image.tmdb.org/t/p/w500/fWooBbipMRIKeSRhEzmeaDV0T8H.jpg"
   },
   {
     "quote": "Adrian!",
@@ -1011,7 +1088,8 @@
     ],
     "genre": "drama",
     "answer": "Rocky",
-    "type": "movie"
+    "type": "movie",
+    "art": "https://image.tmdb.org/t/p/w500/aYtBYWqCdUqcnoodWJdcTG3pFev.jpg"
   },
   {
     "quote": "May the odds be ever in your favor.",
@@ -1024,7 +1102,8 @@
     ],
     "genre": "action",
     "answer": "The Hunger Games",
-    "type": "movie"
+    "type": "movie",
+    "art": "https://image.tmdb.org/t/p/w500/yXCbOiVDCxO71zI7cuwBRXdftq8.jpg"
   },
   {
     "quote": "Why do we fall? So we can learn to pick ourselves up.",
@@ -1037,7 +1116,8 @@
     ],
     "genre": "action",
     "answer": "Batman Begins",
-    "type": "movie"
+    "type": "movie",
+    "art": "https://image.tmdb.org/t/p/w500/sPX89Td70IDDjVr85jdSBb4rWGr.jpg"
   },
   {
     "quote": "There is no spoon.",
@@ -1050,7 +1130,8 @@
     ],
     "genre": "scifi",
     "answer": "The Matrix",
-    "type": "movie"
+    "type": "movie",
+    "art": "https://image.tmdb.org/t/p/w500/dXNAPwY7VrqMAo51EKhhCJfaGb5.jpg"
   },
   {
     "quote": "I am inevitable.",
@@ -1063,7 +1144,8 @@
     ],
     "genre": "action",
     "answer": "Avengers: Endgame",
-    "type": "movie"
+    "type": "movie",
+    "art": "https://image.tmdb.org/t/p/w500/ulzhLuWrPK07P1YkdWQLZnQh1JL.jpg"
   },
   {
     "quote": "With great power comes great responsibility.",
@@ -1076,7 +1158,8 @@
     ],
     "genre": "action",
     "answer": "Spider-Man",
-    "type": "movie"
+    "type": "movie",
+    "art": "https://image.tmdb.org/t/p/w500/nXdAh5vUwERL4WGVMaee8RoDEAS.jpg"
   },
   {
     "quote": "Roads? Where we're going, we don't need roads.",
@@ -1089,7 +1172,8 @@
     ],
     "genre": "scifi",
     "answer": "Back to the Future",
-    "type": "movie"
+    "type": "movie",
+    "art": "https://image.tmdb.org/t/p/w500/vN5B5WgYscRGcQpVhHl6p9DDTP0.jpg"
   },
   {
     "quote": "Get away from her, you b***h!",
@@ -1102,7 +1186,8 @@
     ],
     "genre": "scifi",
     "answer": "Aliens",
-    "type": "movie"
+    "type": "movie",
+    "art": "https://image.tmdb.org/t/p/w500/r1x5JGpyqZU8PYhbs4UcrO1Xb6x.jpg"
   },
   {
     "quote": "Bond. James Bond.",
@@ -1115,7 +1200,8 @@
     ],
     "genre": "action",
     "answer": "Dr. No",
-    "type": "movie"
+    "type": "movie",
+    "art": "https://image.tmdb.org/t/p/w500/9zCOLJmLNst0sCPZlkW1IRoH65E.jpg"
   },
   {
     "quote": "I'm the king of the world!",
@@ -1128,7 +1214,8 @@
     ],
     "genre": "drama",
     "answer": "Titanic",
-    "type": "movie"
+    "type": "movie",
+    "art": "https://image.tmdb.org/t/p/w500/9xjZS2rlVxm8SFx8kPC3aIGCOYQ.jpg"
   },
   {
     "quote": "Elementary, my dear Watson.",
@@ -1141,7 +1228,8 @@
     ],
     "genre": "drama",
     "answer": "Sherlock Holmes",
-    "type": "movie"
+    "type": "movie",
+    "art": "https://image.tmdb.org/t/p/w500/momkKuWburNTqKBF6ez7rvhYVhE.jpg"
   },
   {
     "quote": "Keep your friends close, but your enemies closer.",
@@ -1154,7 +1242,8 @@
     ],
     "genre": "drama",
     "answer": "The Godfather Part II",
-    "type": "movie"
+    "type": "movie",
+    "art": "https://image.tmdb.org/t/p/w500/hek3koDUyRQk7FIhPXsa6mT2Zc3.jpg"
   },
   {
     "quote": "I'm walking here! I'm walking here!",
@@ -1167,7 +1256,8 @@
     ],
     "genre": "drama",
     "answer": "Midnight Cowboy",
-    "type": "movie"
+    "type": "movie",
+    "art": "https://image.tmdb.org/t/p/w500/ckklq45UxUkwgHve9xItXqXr06r.jpg"
   },
   {
     "quote": "Show me the money!",
@@ -1180,7 +1270,8 @@
     ],
     "genre": "comedy",
     "answer": "Jerry Maguire",
-    "type": "movie"
+    "type": "movie",
+    "art": "https://image.tmdb.org/t/p/w500/lABvGN7fDk5ifnwZoxij6G96t2w.jpg"
   },
   {
     "quote": "You shall not pass!",
@@ -1193,7 +1284,8 @@
     ],
     "genre": "scifi",
     "answer": "The Lord of the Rings: The Fellowship of the Ring",
-    "type": "movie"
+    "type": "movie",
+    "art": "https://image.tmdb.org/t/p/w500/6oom5QYQ2yQTMJIbnvbkBL9cHo6.jpg"
   },
   {
     "quote": "Houston, we are go for launch.",
@@ -1206,7 +1298,8 @@
     ],
     "genre": "drama",
     "answer": "Apollo 13",
-    "type": "movie"
+    "type": "movie",
+    "art": "https://image.tmdb.org/t/p/w500/tVeKscCm2fY1xDXZk8PgnZ87h9S.jpg"
   },
   {
     "quote": "I love the smell of napalm in the morning.",
@@ -1219,7 +1312,8 @@
     ],
     "genre": "drama",
     "answer": "Apocalypse Now",
-    "type": "movie"
+    "type": "movie",
+    "art": "https://image.tmdb.org/t/p/w500/gQB8Y5RCMkv2zwzFHbUJX3kAhvA.jpg"
   },
   {
     "quote": "If you build it, he will come.",
@@ -1232,7 +1326,8 @@
     ],
     "genre": "drama",
     "answer": "Field of Dreams",
-    "type": "movie"
+    "type": "movie",
+    "art": "https://image.tmdb.org/t/p/w500/oeM7nAw6FVFICwUaXKCRkDsKjqO.jpg"
   },
   {
     "quote": "Life finds a way.",
@@ -1245,7 +1340,8 @@
     ],
     "genre": "scifi",
     "answer": "Jurassic Park",
-    "type": "movie"
+    "type": "movie",
+    "art": "https://image.tmdb.org/t/p/w500/63viWuPfYQjRYLSZSZNq7dglJP5.jpg"
   },
   {
     "quote": "Hakuna Matata. It means no worries.",
@@ -1258,7 +1354,8 @@
     ],
     "genre": "comedy",
     "answer": "The Lion King",
-    "type": "movie"
+    "type": "movie",
+    "art": "https://image.tmdb.org/t/p/w500/sKCr78MXSLixwmZ8DyJLrpMsd15.jpg"
   },
   {
     "quote": "You can't sit with us!",
@@ -1271,7 +1368,8 @@
     ],
     "genre": "comedy",
     "answer": "Mean Girls",
-    "type": "movie"
+    "type": "movie",
+    "art": "https://image.tmdb.org/t/p/w500/2ZkuQXvVhh45uSvkBej4S7Ix1NJ.jpg"
   },
   {
     "quote": "Say 'what' again. I dare you.",
@@ -1284,7 +1382,8 @@
     ],
     "genre": "drama",
     "answer": "Pulp Fiction",
-    "type": "movie"
+    "type": "movie",
+    "art": "https://image.tmdb.org/t/p/w500/vQWk5YBFWF4bZaofAbv0tShwBvQ.jpg"
   },
   {
     "quote": "That'll do, pig. That'll do.",
@@ -1297,7 +1396,8 @@
     ],
     "genre": "comedy",
     "answer": "Babe",
-    "type": "movie"
+    "type": "movie",
+    "art": "https://image.tmdb.org/t/p/w500/zKuQMtnbVTz9DsOnOJmlW71v4qH.jpg"
   },
   {
     "quote": "Play it, Sam. Play 'As Time Goes By.'",
@@ -1310,7 +1410,8 @@
     ],
     "genre": "classic",
     "answer": "Casablanca",
-    "type": "movie"
+    "type": "movie",
+    "art": "https://image.tmdb.org/t/p/w500/lGCEKlJo2CnWydQj7aamY7s1S7Q.jpg"
   },
   {
     "quote": "Louis, I think this is the beginning of a beautiful friendship.",
@@ -1323,7 +1424,8 @@
     ],
     "genre": "classic",
     "answer": "Casablanca",
-    "type": "movie"
+    "type": "movie",
+    "art": "https://image.tmdb.org/t/p/w500/lGCEKlJo2CnWydQj7aamY7s1S7Q.jpg"
   },
   {
     "quote": "Go ahead, make my day.",
@@ -1336,7 +1438,8 @@
     ],
     "genre": "action",
     "answer": "Sudden Impact",
-    "type": "movie"
+    "type": "movie",
+    "art": "https://image.tmdb.org/t/p/w500/fSADY0EEM7ntpK5IwumcGS4UNNE.jpg"
   },
   {
     "quote": "E.T. phone home.",
@@ -1349,7 +1452,8 @@
     ],
     "genre": "scifi",
     "answer": "E.T. the Extra-Terrestrial",
-    "type": "movie"
+    "type": "movie",
+    "art": "https://image.tmdb.org/t/p/w500/an0nD6uq6byfxXCfk6lQBzdL2J1.jpg"
   },
   {
     "quote": "Get to the chopper!",
@@ -1362,7 +1466,8 @@
     ],
     "genre": "action",
     "answer": "Predator",
-    "type": "movie"
+    "type": "movie",
+    "art": "https://image.tmdb.org/t/p/w500/k3mW4qfJo6SKqe6laRyNGnbB9n5.jpg"
   },
   {
     "quote": "I want to believe.",
@@ -1375,7 +1480,8 @@
     ],
     "genre": "scifi",
     "answer": "The X-Files",
-    "type": "movie"
+    "type": "movie",
+    "art": "https://image.tmdb.org/t/p/w500/yLIw6shz2WC3W3iI0jROsF4B2ha.jpg"
   },
   {
     "quote": "Here's Johnny!",
@@ -1388,7 +1494,8 @@
     ],
     "genre": "drama",
     "answer": "The Shining",
-    "type": "movie"
+    "type": "movie",
+    "art": "https://image.tmdb.org/t/p/w500/uAR0AWqhQL1hQa69UDEbb2rE5Wx.jpg"
   },
   {
     "quote": "I drink your milkshake!",
@@ -1401,7 +1508,8 @@
     ],
     "genre": "drama",
     "answer": "There Will Be Blood",
-    "type": "movie"
+    "type": "movie",
+    "art": "https://image.tmdb.org/t/p/w500/fa0RDkAlCec0STeMNAhPaF89q6U.jpg"
   },
   {
     "quote": "It's not who I am underneath, but what I do that defines me.",
@@ -1414,7 +1522,8 @@
     ],
     "genre": "action",
     "answer": "Batman Begins",
-    "type": "movie"
+    "type": "movie",
+    "art": "https://image.tmdb.org/t/p/w500/sPX89Td70IDDjVr85jdSBb4rWGr.jpg"
   },
   {
     "quote": "My mama always said life was like a box of chocolates.",
@@ -1427,7 +1536,8 @@
     ],
     "genre": "drama",
     "answer": "Forrest Gump",
-    "type": "movie"
+    "type": "movie",
+    "art": "https://image.tmdb.org/t/p/w500/Cw4hIUIAmSYfK9QfaUW5igp9La.jpg"
   },
   {
     "quote": "You can't fight in here! This is the War Room!",
@@ -1440,7 +1550,8 @@
     ],
     "genre": "comedy",
     "answer": "Dr. Strangelove",
-    "type": "movie"
+    "type": "movie",
+    "art": "https://image.tmdb.org/t/p/w500/gHm96BRW4GoI339rF1vYoYTB6Qe.jpg"
   },
   {
     "quote": "A martini. Shaken, not stirred.",
@@ -1453,7 +1564,8 @@
     ],
     "genre": "action",
     "answer": "Goldfinger",
-    "type": "movie"
+    "type": "movie",
+    "art": "https://image.tmdb.org/t/p/w500/3zqmjujYSkgLSrdvvZ9VnDfaDRV.jpg"
   },
   {
     "quote": "I feel need for speed.",
@@ -1466,7 +1578,8 @@
     ],
     "genre": "action",
     "answer": "Top Gun: Maverick",
-    "type": "movie"
+    "type": "movie",
+    "art": "https://image.tmdb.org/t/p/w500/n0YuM4f5lvGAP6MAW2kBIzugXnc.jpg"
   },
   {
     "quote": "Just when you thought it was safe to go back in the water.",
@@ -1479,7 +1592,8 @@
     ],
     "genre": "action",
     "answer": "Jaws 2",
-    "type": "movie"
+    "type": "movie",
+    "art": "https://image.tmdb.org/t/p/w500/cN3ijEwsn4kBaRuHfcJpAQJbeWe.jpg"
   },
   {
     "quote": "Not all those who wander are lost.",
@@ -1492,7 +1606,8 @@
     ],
     "genre": "scifi",
     "answer": "The Lord of the Rings: The Fellowship of the Ring",
-    "type": "movie"
+    "type": "movie",
+    "art": "https://image.tmdb.org/t/p/w500/6oom5QYQ2yQTMJIbnvbkBL9cHo6.jpg"
   },
   {
     "quote": "Made it, Ma! Top of the world!",
@@ -1505,7 +1620,8 @@
     ],
     "genre": "classic",
     "answer": "White Heat",
-    "type": "movie"
+    "type": "movie",
+    "art": "https://image.tmdb.org/t/p/w500/v7cPOHKKZI9qChi7HDUxNIhEcLR.jpg"
   },
   {
     "quote": "I'm as mad as hell, and I'm not going to take this anymore!",
@@ -1518,7 +1634,8 @@
     ],
     "genre": "drama",
     "answer": "Network",
-    "type": "movie"
+    "type": "movie",
+    "art": "https://image.tmdb.org/t/p/w500/qZomlHsaALUtkFeMDwdYmwS2Pbo.jpg"
   },
   {
     "quote": "You're killing me, Smalls.",
@@ -1531,7 +1648,8 @@
     ],
     "genre": "comedy",
     "answer": "The Sandlot",
-    "type": "movie"
+    "type": "movie",
+    "art": "https://image.tmdb.org/t/p/w500/7PYqz0viEuW8qTvuGinUMjDWMnj.jpg"
   },
   {
     "quote": "I'm gonna need a bigger boat.",
@@ -1544,7 +1662,8 @@
     ],
     "genre": "action",
     "answer": "Jaws",
-    "type": "movie"
+    "type": "movie",
+    "art": "https://image.tmdb.org/t/p/w500/lxM6kqilAdpdhqUl2biYp5frUxE.jpg"
   },
   {
     "quote": "Winter is coming.",
@@ -1570,7 +1689,8 @@
     ],
     "genre": "comedy",
     "answer": "Back to the Future",
-    "type": "movie"
+    "type": "movie",
+    "art": "https://image.tmdb.org/t/p/w500/vN5B5WgYscRGcQpVhHl6p9DDTP0.jpg"
   },
   {
     "quote": "You've got a friend in me.",
@@ -1583,7 +1703,8 @@
     ],
     "genre": "comedy",
     "answer": "Toy Story",
-    "type": "movie"
+    "type": "movie",
+    "art": "https://image.tmdb.org/t/p/w500/uXDfjJbdP4ijW5hWSBrPrlKpxab.jpg"
   },
   {
     "quote": "To boldly go where no man has gone before.",
@@ -1609,7 +1730,8 @@
     ],
     "genre": "scifi",
     "answer": "Star Trek II: The Wrath of Khan",
-    "type": "movie"
+    "type": "movie",
+    "art": "https://image.tmdb.org/t/p/w500/uPyLsKl8Z0LOoxeaFXsY5MxhR5s.jpg"
   },
   {
     "quote": "It's a trap!",
@@ -1622,7 +1744,8 @@
     ],
     "genre": "scifi",
     "answer": "Star Wars: Episode VI - Return of the Jedi",
-    "type": "movie"
+    "type": "movie",
+    "art": "https://image.tmdb.org/t/p/w500/jQYlydvHm3kUix1f8prMucrplhm.jpg"
   },
   {
     "quote": "Do or do not, there is no try.",
@@ -1635,7 +1758,8 @@
     ],
     "genre": "scifi",
     "answer": "The Empire Strikes Back",
-    "type": "movie"
+    "type": "movie",
+    "art": "https://image.tmdb.org/t/p/w500/nNAeTmF4CtdSgMDplXTDPOpYzsX.jpg"
   },
   {
     "quote": "The Dude abides.",
@@ -1648,7 +1772,8 @@
     ],
     "genre": "comedy",
     "answer": "The Big Lebowski",
-    "type": "movie"
+    "type": "movie",
+    "art": "https://image.tmdb.org/t/p/w500/3bv6WAp6BSxxYvB5ozKFUYuRA8C.jpg"
   },
   {
     "quote": "That's what she said.",
@@ -1661,7 +1786,8 @@
     ],
     "genre": "comedy",
     "answer": "The Office",
-    "type": "movie"
+    "type": "movie",
+    "art": "https://image.tmdb.org/t/p/w500/kKZnljlSpvkg42QAKeOIBhAQGgy.jpg"
   },
   {
     "quote": "Cool cool cool cool cool.",
@@ -1674,7 +1800,8 @@
     ],
     "genre": "comedy",
     "answer": "Community",
-    "type": "movie"
+    "type": "movie",
+    "art": "https://image.tmdb.org/t/p/w500/zqllSUVBeDBQPocN4ayzyuUPDX4.jpg"
   },
   {
     "quote": "Wingardium Leviosa.",
@@ -1687,7 +1814,8 @@
     ],
     "genre": "scifi",
     "answer": "Harry Potter and the Sorcerer's Stone",
-    "type": "movie"
+    "type": "movie",
+    "art": "https://image.tmdb.org/t/p/w500/wuMc08IPKEatf9rnMNXvIDxqP4W.jpg"
   },
   {
     "quote": "After all this time? Always.",
@@ -1700,7 +1828,8 @@
     ],
     "genre": "drama",
     "answer": "Harry Potter and the Deathly Hallows: Part 2",
-    "type": "movie"
+    "type": "movie",
+    "art": "https://image.tmdb.org/t/p/w500/c54HpQmuwXjHq2C9wmoACjxoom3.jpg"
   },
   {
     "quote": "I am Groot.",
@@ -1713,7 +1842,8 @@
     ],
     "genre": "action",
     "answer": "Guardians of the Galaxy",
-    "type": "movie"
+    "type": "movie",
+    "art": "https://image.tmdb.org/t/p/w500/r7vmZjiyZw9rpJMQJdXpjgiCOk9.jpg"
   },
   {
     "quote": "I can do this all day.",
@@ -1726,7 +1856,8 @@
     ],
     "genre": "action",
     "answer": "Captain America: The First Avenger",
-    "type": "movie"
+    "type": "movie",
+    "art": "https://image.tmdb.org/t/p/w500/vSNxAJTlD0r02V9sPYpOjqDZXUK.jpg"
   },
   {
     "quote": "Wakanda forever!",
@@ -1739,7 +1870,8 @@
     ],
     "genre": "action",
     "answer": "Black Panther",
-    "type": "movie"
+    "type": "movie",
+    "art": "https://image.tmdb.org/t/p/w500/uxzzxijgPIY7slzFvMotPv8wjKA.jpg"
   },
   {
     "quote": "It's turned off. Try turning it on.",
@@ -1752,7 +1884,8 @@
     ],
     "genre": "comedy",
     "answer": "Zoolander",
-    "type": "movie"
+    "type": "movie",
+    "art": "https://image.tmdb.org/t/p/w500/qdrbSneHZjJG2Dj0hhBxzzAo4HB.jpg"
   },
   {
     "quote": "60% of the time, it works every time.",
@@ -1765,7 +1898,8 @@
     ],
     "genre": "comedy",
     "answer": "Anchorman: The Legend of Ron Burgundy",
-    "type": "movie"
+    "type": "movie",
+    "art": "https://image.tmdb.org/t/p/w500/mhZIcRePT7U8viFQVjt1ZjYIsR4.jpg"
   },
   {
     "quote": "I love lamp.",
@@ -1778,7 +1912,8 @@
     ],
     "genre": "comedy",
     "answer": "Anchorman: The Legend of Ron Burgundy",
-    "type": "movie"
+    "type": "movie",
+    "art": "https://image.tmdb.org/t/p/w500/mhZIcRePT7U8viFQVjt1ZjYIsR4.jpg"
   },
   {
     "quote": "You either die a hero, or you live long enough to see yourself become the villain.",
@@ -1791,7 +1926,8 @@
     ],
     "genre": "action",
     "answer": "The Dark Knight",
-    "type": "movie"
+    "type": "movie",
+    "art": "https://image.tmdb.org/t/p/w500/qJ2tW6WMUDux911r6m7haRef0WH.jpg"
   },
   {
     "quote": "Some men just want to watch the world burn.",
@@ -1804,7 +1940,8 @@
     ],
     "genre": "action",
     "answer": "The Dark Knight",
-    "type": "movie"
+    "type": "movie",
+    "art": "https://image.tmdb.org/t/p/w500/qJ2tW6WMUDux911r6m7haRef0WH.jpg"
   },
   {
     "quote": "I'll make him an offer he can't refuse.",
@@ -1817,7 +1954,8 @@
     ],
     "genre": "drama",
     "answer": "The Godfather",
-    "type": "movie"
+    "type": "movie",
+    "art": "https://image.tmdb.org/t/p/w500/3bhkrj58Vtu7enYsRolD1fZdja1.jpg"
   },
   {
     "quote": "Leave the gun. Take the cannoli.",
@@ -1830,7 +1968,8 @@
     ],
     "genre": "drama",
     "answer": "The Godfather",
-    "type": "movie"
+    "type": "movie",
+    "art": "https://image.tmdb.org/t/p/w500/3bhkrj58Vtu7enYsRolD1fZdja1.jpg"
   },
   {
     "quote": "As you wish.",
@@ -1843,7 +1982,8 @@
     ],
     "genre": "comedy",
     "answer": "The Princess Bride",
-    "type": "movie"
+    "type": "movie",
+    "art": "https://image.tmdb.org/t/p/w500/2FC9L9MrjBoGHYjYZjdWQdopVYb.jpg"
   },
   {
     "quote": "Inconceivable!",
@@ -1856,7 +1996,8 @@
     ],
     "genre": "comedy",
     "answer": "The Princess Bride",
-    "type": "movie"
+    "type": "movie",
+    "art": "https://image.tmdb.org/t/p/w500/2FC9L9MrjBoGHYjYZjdWQdopVYb.jpg"
   },
   {
     "quote": "Is this the real life? Is this just fantasy?",
