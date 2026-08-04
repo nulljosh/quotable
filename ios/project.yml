@@ -17,3 +17,11 @@ targets:
         PRODUCT_BUNDLE_IDENTIFIER: com.heyitsmejosh.quoteguess
         MARKETING_VERSION: "1.0.0"
         CURRENT_PROJECT_VERSION: "1"
+        CODE_SIGN_STYLE: Automatic
+        DEVELOPMENT_TEAM: QMM486NPYC
+        # Without an entitlements file the signed bundle carries no
+        # application-identifier while the embedded profile does — Apple rejects
+        # that combination for TestFlight with ITMS-90886. Hand-committed rather
+        # than generated via xcodegen `entitlements.properties` (drops keys).
+        # DEVELOPMENT_TEAM above is required for $(AppIdentifierPrefix) to resolve.
+        CODE_SIGN_ENTITLEMENTS: QuoteGuess.entitlements

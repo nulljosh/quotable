@@ -7,8 +7,13 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		2E6722B4F7B65EE97E668CBB /* i18n.js in Resources */ = {isa = PBXBuildFile; fileRef = A3EBED05FEC1D3B8D95E32AA /* i18n.js */; };
+		3640F2B5E009721EDB9D3EB2 /* pa.json in Resources */ = {isa = PBXBuildFile; fileRef = 13648A7E5B7C069F923F631E /* pa.json */; };
+		3E205985D5E0262B2D7E2348 /* zh.json in Resources */ = {isa = PBXBuildFile; fileRef = EBF87081AFACEA7E7D7DEA68 /* zh.json */; };
+		462567D42376FA14F37AFBC0 /* fr.json in Resources */ = {isa = PBXBuildFile; fileRef = B6FA204FA7BEC21F78B8B53A /* fr.json */; };
 		7832F7DF7A810A4AA08C6A9B /* QuoteGuessApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4712632BDFD4404A211C9E46 /* QuoteGuessApp.swift */; };
 		8848BCFF710E6057B54F41F6 /* game.js in Resources */ = {isa = PBXBuildFile; fileRef = FD5A78B088ADD3E161D49291 /* game.js */; };
+		975D2DDCEC67A4727202A6F8 /* en.json in Resources */ = {isa = PBXBuildFile; fileRef = 76E5A84E5F62DE00BBC31A78 /* en.json */; };
 		9D52E74F1901C7ADCE64F890 /* index.html in Resources */ = {isa = PBXBuildFile; fileRef = 78BB6A99F7E721E9194712F3 /* index.html */; };
 		A78F45D98D860A66DB2243E2 /* style.css in Resources */ = {isa = PBXBuildFile; fileRef = 5BD13B86D435012BF624A0CD /* style.css */; };
 		C61218305FD27331A5BA75F8 /* quotes.json in Resources */ = {isa = PBXBuildFile; fileRef = 85BC364057FF26631FEE9754 /* quotes.json */; };
@@ -16,13 +21,18 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		13648A7E5B7C069F923F631E /* pa.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = pa.json; sourceTree = "<group>"; };
 		4712632BDFD4404A211C9E46 /* QuoteGuessApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuoteGuessApp.swift; sourceTree = "<group>"; };
 		5BD13B86D435012BF624A0CD /* style.css */ = {isa = PBXFileReference; lastKnownFileType = text.css; path = style.css; sourceTree = "<group>"; };
+		76E5A84E5F62DE00BBC31A78 /* en.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = en.json; sourceTree = "<group>"; };
 		78BB6A99F7E721E9194712F3 /* index.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = index.html; sourceTree = "<group>"; };
 		85BC364057FF26631FEE9754 /* quotes.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = quotes.json; sourceTree = "<group>"; };
 		9EC7C95F074EC3E79DCFAD7A /* GameWebView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameWebView.swift; sourceTree = "<group>"; };
+		A3EBED05FEC1D3B8D95E32AA /* i18n.js */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.javascript; path = i18n.js; sourceTree = "<group>"; };
+		B6FA204FA7BEC21F78B8B53A /* fr.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = fr.json; sourceTree = "<group>"; };
 		BE2F007045C636E127E5DA87 /* QuoteGuess.app */ = {isa = PBXFileReference; includeInIndex = 0; lastKnownFileType = wrapper.application; path = QuoteGuess.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C30155A374462307F38352DB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
+		EBF87081AFACEA7E7D7DEA68 /* zh.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = zh.json; sourceTree = "<group>"; };
 		FD5A78B088ADD3E161D49291 /* game.js */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.javascript; path = game.js; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -38,13 +48,26 @@
 			path = QuoteGuess;
 			sourceTree = "<group>";
 		};
+		8A9C86768280B2A6CD3E4771 /* locales */ = {
+			isa = PBXGroup;
+			children = (
+				76E5A84E5F62DE00BBC31A78 /* en.json */,
+				B6FA204FA7BEC21F78B8B53A /* fr.json */,
+				13648A7E5B7C069F923F631E /* pa.json */,
+				EBF87081AFACEA7E7D7DEA68 /* zh.json */,
+			);
+			path = locales;
+			sourceTree = "<group>";
+		};
 		8B890B67AC98FA7F06E49ACE /* Resources */ = {
 			isa = PBXGroup;
 			children = (
 				FD5A78B088ADD3E161D49291 /* game.js */,
+				A3EBED05FEC1D3B8D95E32AA /* i18n.js */,
 				78BB6A99F7E721E9194712F3 /* index.html */,
 				85BC364057FF26631FEE9754 /* quotes.json */,
 				5BD13B86D435012BF624A0CD /* style.css */,
+				8A9C86768280B2A6CD3E4771 /* locales */,
 			);
 			path = Resources;
 			sourceTree = "<group>";
@@ -95,6 +118,10 @@
 				BuildIndependentTargetsInParallel = YES;
 				LastUpgradeCheck = 1430;
 				TargetAttributes = {
+					32D150C37D3C3D1277E6A77A = {
+						DevelopmentTeam = QMM486NPYC;
+						ProvisioningStyle = Automatic;
+					};
 				};
 			};
 			buildConfigurationList = 6D305C07EBC7E41E93FE4882 /* Build configuration list for PBXProject "QuoteGuess" */;
@@ -121,10 +148,15 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				975D2DDCEC67A4727202A6F8 /* en.json in Resources */,
+				462567D42376FA14F37AFBC0 /* fr.json in Resources */,
 				8848BCFF710E6057B54F41F6 /* game.js in Resources */,
+				2E6722B4F7B65EE97E668CBB /* i18n.js in Resources */,
 				9D52E74F1901C7ADCE64F890 /* index.html in Resources */,
+				3640F2B5E009721EDB9D3EB2 /* pa.json in Resources */,
 				C61218305FD27331A5BA75F8 /* quotes.json in Resources */,
 				A78F45D98D860A66DB2243E2 /* style.css in Resources */,
+				3E205985D5E0262B2D7E2348 /* zh.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -147,8 +179,11 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_ENTITLEMENTS = QuoteGuess.entitlements;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
+				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = QMM486NPYC;
 				INFOPLIST_FILE = QuoteGuess/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -221,8 +256,11 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_ENTITLEMENTS = QuoteGuess.entitlements;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
+				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = QMM486NPYC;
 				INFOPLIST_FILE = QuoteGuess/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
 				LD_RUNPATH_SEARCH_PATHS = (
