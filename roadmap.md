@@ -7,5 +7,3 @@
 - [ ] Panel still has roughly 90px of dead space below the answers (likely a reserved feedback/next-button area). Not measured precisely — session usage cap hit. Probe `#game`'s children heights to confirm before tightening.
 
 ## Ingested 2026-08-04
-- [ ] Research and add films dads would like ("dad films")
-- [ ] Expand beyond film to all media — add music etc.
