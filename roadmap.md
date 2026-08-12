@@ -7,3 +7,6 @@
 - [ ] Panel still has roughly 90px of dead space below the answers (likely a reserved feedback/next-button area). Not measured precisely — session usage cap hit. Probe `#game`'s children heights to confirm before tightening.
 
 ## Ingested 2026-08-04
+
+## From Apple Notes (imported 2026-08-11)
+- [ ] Website works but has lots of unused white space — tighten the layout
