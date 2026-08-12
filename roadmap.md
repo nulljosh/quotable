@@ -10,3 +10,5 @@
 
 ## From Apple Notes (imported 2026-08-11)
 - [ ] Website works but has lots of unused white space — tighten the layout
+
+> Resume note (2026-08-11): a `wip: partial work from /work notes ingest` commit holds unfinished, unverified changes for the items above. Review `git show HEAD` before building on it — it was committed mid-flight, not reviewed, and is unpushed.
