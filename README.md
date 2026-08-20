@@ -32,3 +32,7 @@ Open `http://localhost:8000`.
 ## License
 
 MIT 2026, Joshua Trommel
+
+## Whitepaper
+
+[Technical whitepaper](WHITEPAPER.md)
